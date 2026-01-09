@@ -1,0 +1,75 @@
+# Scientific Article Acknowledgments Analysis Prompt
+
+You are tasked with analyzing an acknowledgments paragraph from a scientific article. The content may be in English or another language.
+
+## Task Instructions
+
+Extract entities mentioned in the acknowledgments paragraph, but ONLY if they fall into one of these three categories:
+
+1. **Funder**: Organizations that provide financial support (grants, funding agencies, foundations, government bodies providing research funding)
+2. **Research Infrastructure**: Facilities, platforms, databases, computational resources, or research infrastructures used in the study
+3. **Private Company**: Commercial entities, corporations, or businesses mentioned in the context of support or collaboration
+
+## Important Rules
+
+- Each entity must be classified into exactly ONE category (funder/infrastructure/private company)
+- Do not extract individual people, personal acknowledgments, or general thanks
+- Focus only on organizational entities that provided tangible support
+
+If available, also identify:
+- **Grant ID**: Any grant numbers, award numbers, or reference codes
+- **Program**: Specific funding programs, schemes, or initiatives mentioned
+
+## Output Format
+
+Provide your analysis in the following simple markdown format:
+
+```markdown
+## Extracted Entities
+
+**Entity Name 1**
+- Type: FUNDER
+- Grant ID: ABC123
+- Program: Innovation Research Program
+
+**Entity Name 2**
+- Type: INFRASTRUCTURE
+- Grant ID: -
+- Program: -
+
+**Entity Name 3**
+- Type: PRIVATE_COMPANY
+- Grant ID: -
+- Program: -
+```
+
+**Instructions:**
+- List each entity with its name in bold
+- **Type**: Must be exactly one of: `FUNDER`, `INFRASTRUCTURE`, `PRIVATE_COMPANY`
+
+If no entities are found, respond with:
+```markdown
+## Extracted Entities
+
+No entities found matching the criteria.
+```
+
+## Examples of What to Extract
+
+**Funders**: ANR, ERC, Horizon Europe, H2020, FP7, National Science Foundation (NSF), European Research Council, NIH, Wellcome Trust, and all foundations (Gates Foundation, Ford Foundation, etc.)
+
+**Infrastructures**: Computational clusters or grids, databases, research facilities, core facilities, biobanks, synchrotrons, observatories, supercomputing centers, telescopes, accelerators
+
+**Private Companies**: Pharmaceutical companies (Pfizer, Novartis), technology companies (Google, Microsoft), deep-tech start-ups, equipment manufacturers (when mentioned as supporters or collaborators)
+
+**Important Note**: Research organisms like CNRS, INRAE, INRIA, BRGM, IFREMER, CEA, ONERA, CNES are NOT private companies - they are public research institutions and should only be considered if they appear as funders.
+
+## Examples of What NOT to Extract
+
+- Individual researchers or collaborators
+- University departments or academic institutions (unless they provided funding)
+- General editorial or peer review acknowledgments
+- Personal thanks or informal mentions
+- Research organizations like CNRS, INRAE, INRIA, BRGM, IFREMER, CEA, ONERA, CNES are NOT private companies
+
+Now analyze the following acknowledgments paragraph:
