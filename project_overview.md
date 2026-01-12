@@ -25,11 +25,6 @@ Steps:
 
 ## Data
 
-### Corpus BSO 
-Corpus split by year (2013-2025)
-- `https://storage.gra.cloud.ovh.net/v1/AUTH_32c5d10cb0fe4519b957064a111717e3/bso_dump/bso-publications-latest_split_{year}_enriched.jsonl.gz`
-
-
 ### S3 Bucket
 - `skolar`
 
@@ -61,3 +56,6 @@ le fichier va évoluer...
 
 ANR publications
 - CSV file: [data/00rbzpz17.csv](./data/00rbzpz17.csv)
+
+Corpus BSO (split by year 2013-2025)
+- `https://storage.gra.cloud.ovh.net/v1/AUTH_32c5d10cb0fe4519b957064a111717e3/bso_dump/bso-publications-latest_split_{year}_enriched.jsonl.gz`
