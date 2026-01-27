@@ -17,6 +17,9 @@ We will deploy them at the national (French) level, but we also hope they will b
 - A first dataset is available at https://huggingface.co/datasets/dataesr/scientific-paragraphs-categorization
 It contains 833k paragraphs, extracted from cc-by publications. The paragraphs are classified (acknowledgment, dataset, software, clinicaltrial).
 
+- A list of main funders [ from OpenAlex ]
+https://github.com/ourresearch/openalex-walden/blob/main/plans/awards/funder-ingestion-tracker.md
+
 ## Acknowledgments analysis
 
 - A prompt has been tested woth `mistral-small` cf `prompt_acknowledgment.txt` 
