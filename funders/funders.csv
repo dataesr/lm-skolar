@@ -1,0 +1,132 @@
+name,acronym,country,name_variant,type
+National Institutes of Health,NIH,United States,,Funder
+National Science Foundation,NSF,United States,,Funder
+Natural Sciences and Engineering Research Council,NSERC,Canada,,Funder
+Bill & Melinda Gates Foundation,Gates Foundation,United States,BMGF,Charity
+Social Sciences and Humanities Research Council,SSHRC,Canada,,Funder
+Netherlands Organisation for Scientific Research,NWO,Netherlands,Nederlandse Organisatie voor Wetenschappelijk Onderzoek,Funder
+National Health and Medical Research Council,NHMRC,Australia,,Funder
+Grants-in-Aid for Scientific Research,KAKEN,Japan,KAKENHI,Funder
+French National Research Agency,ANR,France,Agence Nationale de la Recherche,Funder
+Canadian Institutes of Health Research,CIHR,Canada,,Funder
+Canada Foundation for Innovation,CFI,Canada,,Funder
+Swedish Innovation Agency,Vinnova,Sweden,Verket för innovationssystem,Funder
+Federal Office for Defence Procurement,armasuisse,Switzerland,,Funder
+National Institute for Health and Care Research,NIHR,United Kingdom,,Funder
+German Research Foundation,DFG,Germany,Deutsche Forschungsgemeinschaft,Funder
+São Paulo Research Foundation,FAPESP,Brazil,Fundação de Amparo à Pesquisa do Estado de São Paulo,Funder
+Australian Research Council,ARC,Australia,,Funder
+Swedish Research Council,VR,Sweden,Vetenskapsrådet,Funder
+European Research Council,ERC,European Union,,Funder
+Swiss National Science Foundation,SNSF,Switzerland,Schweizerischer Nationalfonds,Funder
+National Aeronautics and Space Administration,NASA,United States,,Funder
+Wellcome Trust,,United Kingdom,,Charity
+Academy of Finland,AKA,Finland,Suomen Akatemia,Funder
+American Cancer Society,ACS,United States,,Charity
+U.S. Department of Energy,DOE,United States,,Funder
+U.S. Department of Defense,DoD,United States,,Funder
+European Commission,EC,European Union,,Funder
+UK Research and Innovation,UKRI,United Kingdom,,Funder
+Federal Ministry of Education and Research,BMBF,Germany,Bundesministerium für Bildung und Forschung,Funder
+Netherlands Organisation for Health Research and Development,ZonMw,Netherlands,,Funder
+"Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning",Formas,Sweden,,Funder
+"Swedish Research Council for Health, Working Life and Welfare",Forte,Sweden,,Funder
+Research Council of Denmark,DFF,Denmark,Danmarks Frie Forskningsfond,Funder
+Independent Research Fund Denmark,IRFD,Denmark,Danmarks Frie Forskningsfond,Funder
+Foundation for Science and Technology,FCT,Portugal,Fundação para a Ciência e a Tecnologia,Funder
+State Research Agency,AEI,Spain,Agencia Estatal de Investigación,Funder
+Carlos III Health Institute,ISCIII,Spain,Instituto de Salud Carlos III,Funder
+"Ministry of Education, Universities and Research",MIUR,Italy,"Ministero dell'Istruzione, dell'Università e della Ricerca",Funder
+National Research Council,CNR,Italy,Consiglio Nazionale delle Ricerche,Funder
+National Science Centre,NCN,Poland,Narodowe Centrum Nauki,Funder
+Austrian Science Fund,FWF,Austria,Fonds zur Förderung der wissenschaftlichen Forschung,Funder
+Czech Science Foundation,GACR,Czech Republic,Grantová agentura České republiky,Funder
+National Natural Science Foundation of China,NSFC,China,,Funder
+National Key R&D Program,,China,,Funder
+Chinese Academy of Sciences,CAS,China,,Funder
+China Postdoctoral Science Foundation,CPSF,China,,Funder
+Natural Science Foundation of Jiangsu Province,,China,,Funder
+Natural Science Foundation of Guangdong Province,,China,,Funder
+Japan Science and Technology Agency,JST,Japan,,Funder
+Japan Agency for Medical Research and Development,AMED,Japan,,Funder
+National Research Foundation,NRF,South Korea,,Funder
+Ministry of Science and ICT,MSIT,South Korea,,Funder
+National Science and Technology Council,NSTC,Taiwan,,Funder
+Department of Science and Technology,DST,India,,Funder
+Science and Engineering Research Board,SERB,India,,Funder
+Department of Biotechnology,DBT,India,,Funder
+Council of Scientific and Industrial Research,CSIR,India,,Funder
+Indian Council of Medical Research,ICMR,India,,Funder
+National Council for Scientific and Technological Development,CNPq,Brazil,Conselho Nacional de Desenvolvimento Científico e Tecnológico,Funder
+Coordination for the Improvement of Higher Education Personnel,CAPES,Brazil,Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,Funder
+National Scientific and Technical Research Council,CONICET,Argentina,Consejo Nacional de Investigaciones Científicas y Técnicas,Funder
+National Agency for Research and Development,ANID,Chile,Agencia Nacional de Investigación y Desarrollo,Funder
+Israel Science Foundation,ISF,Israel,,Funder
+Scientific and Technological Research Council of Turkey,TÜBİTAK,Turkey,,Funder
+Howard Hughes Medical Institute,HHMI,United States,,Charity
+Simons Foundation,,United States,,Charity
+Chan Zuckerberg Initiative,CZI,United States,,Charity
+Alfred P. Sloan Foundation,,United States,,Charity
+Arnold Ventures,,United States,Laura and John Arnold Foundation,Charity
+American Heart Association,AHA,United States,,Charity
+Burroughs Wellcome Fund,BWF,United States,,Charity
+Rita Allen Foundation,,United States,,Charity
+Arcadia Fund,,United Kingdom,Arcadia – a charitable fund of Lisbet Rausing and Peter Baldwin,Charity
+John Templeton Foundation,,United States,,Charity
+Open Society Foundations,OSF,United States,,Charity
+Lumina Foundation,,United States,,Charity
+Paul G. Allen Frontiers Group,,United States,,Charity
+Rockefeller Foundation,,United States,,Charity
+Ford Foundation,,United States,,Charity
+Robert Wood Johnson Foundation,RWJF,United States,,Charity
+National Fund for Scientific and Technological Development,FONDECYT,Chile,ANID/FONDECYT,Funder
+"Ministry of Science, Technology and Innovation",MinCiencias,Colombia,,Funder
+"National Council of Humanities, Sciences and Technologies",CONAHCYT,Mexico,,Funder
+"National Council for Science, Technology and Technological Innovation",CONCYTEC,Peru,PROCIENCIA,Funder
+National Research Fund,NRF,Kenya,,Funder
+Tertiary Education Trust Fund,TETFund,Nigeria,,Funder
+Ministry of Higher Education Malaysia Grants System,MyGRANTS,Malaysia,MOHE,Funder
+National Research Council of Thailand,NRCT,Thailand,Thai National Research Repository,Funder
+National Foundation for Science and Technology Development,NAFOSTED,Vietnam,,Funder
+International Development Research Centre,IDRC,Canada,,Funder
+Inter-American Development Bank,IDB,International,IADB,Funder
+Qatar National Research Fund,QNRF,Qatar,,Funder
+National Agency for Research and Innovation,ANII,Uruguay,Agencia Nacional de Investigación e Innovación,Funder
+"National Agency for the Promotion of Research, Technological Development and Innovation",Agencia I+D+i,Argentina,,Funder
+National Research Foundation,NRF,South Africa,,Funder
+"Secretariat of Higher Education, Science, Technology and Innovation",SENESCYT,Ecuador,,Funder
+"Ministry of Science, Technology and Telecommunications",MICITT,Costa Rica,,Funder
+Carlos Chagas Filho Research Support Foundation,FAPERJ,Brazil,,Funder
+Minas Gerais Research Foundation,FAPEMIG,Brazil,,Funder
+Funding Authority for Studies and Projects,FINEP,Brazil,,Funder
+Uganda National Council for Science and Technology,UNCST,Uganda,,Funder
+Tanzania Commission for Science and Technology,COSTECH,Tanzania,,Funder
+African Academy of Sciences – Alliance for Accelerating Excellence in Science in Africa,AESA,International (Africa),,Funder
+Indonesia Endowment Fund for Education,LPDP,Indonesia,,Funder
+National Research and Innovation Agency,BRIN,Indonesia,,Funder
+Department of Science and Technology,DOST,Philippines,,Funder
+Higher Education Commission,HEC,Pakistan,,Funder
+University Grants Commission,UGC,Bangladesh,,Funder
+National Science Foundation,NSF,Sri Lanka,,Funder
+Nepal Academy of Science and Technology,NAST,Nepal,,Funder
+National Agency for Research on AIDS and Viral Hepatitis,ANRS,France,ANRS MIE,Funder
+"French Agency for Food, Environmental and Occupational Health & Safety",ANSES,France,,Funder
+National Cancer Institute,INCa,France,Institut National du Cancer,Funder
+Hubert Curien Partnerships,PHC,France,Partenariat Hubert Curien,Funder
+Hospital Program for Clinical Research,PHRC,France,Programme Hospitalier de Recherche Clinique,Funder
+Navigation Fund,,International,,Charity
+France 2030 Investment Plan,PIA,France,Programme d’Investissements d’Avenir,Funder
+China Scholarship Council, CSC, China,,Funder
+Engineering and Physical Sciences Research Council,EPSRC,United Kingdom,,Funder
+Science and Technology Facilities Council,STFC,United Kingdom,,Funder
+European Regional Development Fund,ERDF,European Union,FEDER - Fonds européen de développement régional,Funder
+Royal Society,,United Kingdom,,Funder
+Russian Science Foundation,,Russia,,Funder
+Japan Society for the Promotion of Science,JSPS,Japan,,Funder
+EUROfusion consortium,EUROfusion,European Union,,Funder
+Institut universitaire de France,IUF,France,,Funder
+Région Ile de France
+Région Pays de la Loire
+Région Grand Est # Lorraine
+Région Auvergne Rhône Alpes
+Région Occitanie
