@@ -4,20 +4,19 @@ National Science Foundation,NSF,United States,,Funder
 Natural Sciences and Engineering Research Council,NSERC,Canada,,Funder
 Bill & Melinda Gates Foundation,Gates Foundation,United States,BMGF,Charity
 Social Sciences and Humanities Research Council,SSHRC,Canada,,Funder
-Netherlands Organisation for Scientific Research,NWO,Netherlands,Nederlandse Organisatie voor Wetenschappelijk Onderzoek,Funder
+Netherlands Organisation for Scientific Research,NWO,Netherlands,Nederlandse Organisatie voor Wetenschappelijk Onderzoek|Dutch Research Council,Funder
 National Health and Medical Research Council,NHMRC,Australia,,Funder
 Grants-in-Aid for Scientific Research,KAKEN,Japan,KAKENHI,Funder
 French National Research Agency,ANR,France,Agence Nationale de la Recherche,Funder
+Association Nationale de la Recherche et de la Technologie,ANRT,France,,Funder
 Canadian Institutes of Health Research,CIHR,Canada,,Funder
 Canada Foundation for Innovation,CFI,Canada,,Funder
 Swedish Innovation Agency,Vinnova,Sweden,Verket för innovationssystem,Funder
-Federal Office for Defence Procurement,armasuisse,Switzerland,,Funder
 National Institute for Health and Care Research,NIHR,United Kingdom,,Funder
 German Research Foundation,DFG,Germany,Deutsche Forschungsgemeinschaft,Funder
 São Paulo Research Foundation,FAPESP,Brazil,Fundação de Amparo à Pesquisa do Estado de São Paulo,Funder
 Australian Research Council,ARC,Australia,,Funder
 Swedish Research Council,VR,Sweden,Vetenskapsrådet,Funder
-European Research Council,ERC,European Union,,Funder
 Swiss National Science Foundation,SNSF,Switzerland,Schweizerischer Nationalfonds,Funder
 National Aeronautics and Space Administration,NASA,United States,,Funder
 Wellcome Trust,,United Kingdom,,Charity
@@ -25,15 +24,15 @@ Academy of Finland,AKA,Finland,Suomen Akatemia,Funder
 American Cancer Society,ACS,United States,,Charity
 U.S. Department of Energy,DOE,United States,,Funder
 U.S. Department of Defense,DoD,United States,,Funder
-European Commission,EC,European Union,,Funder
+European Commission,EC,European Union,H2020|Horizon 2020|FP6|FP7|Horizon Europe|EU H2020|European Union Seventh Framework Programme|EU FP7|Marie Skłodowska-Curie|Marie Curie|ERC|European Research Council,Funder
 UK Research and Innovation,UKRI,United Kingdom,,Funder
 Federal Ministry of Education and Research,BMBF,Germany,Bundesministerium für Bildung und Forschung,Funder
 Netherlands Organisation for Health Research and Development,ZonMw,Netherlands,,Funder
 "Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning",Formas,Sweden,,Funder
 "Swedish Research Council for Health, Working Life and Welfare",Forte,Sweden,,Funder
-Research Council of Denmark,DFF,Denmark,Danmarks Frie Forskningsfond,Funder
+Danmarks Frie Forskningsfond,DFF,Denmark,Research Council of Denmark,Funder
 Independent Research Fund Denmark,IRFD,Denmark,Danmarks Frie Forskningsfond,Funder
-Foundation for Science and Technology,FCT,Portugal,Fundação para a Ciência e a Tecnologia,Funder
+Foundation for Science and Technology,FCT,Portugal,Fundação para a Ciência e a Tecnologia|Portuguese Foundation for Science and Technology,Funder
 State Research Agency,AEI,Spain,Agencia Estatal de Investigación,Funder
 Carlos III Health Institute,ISCIII,Spain,Instituto de Salud Carlos III,Funder
 "Ministry of Education, Universities and Research",MIUR,Italy,"Ministero dell'Istruzione, dell'Università e della Ricerca",Funder
@@ -81,8 +80,8 @@ Ford Foundation,,United States,,Charity
 Robert Wood Johnson Foundation,RWJF,United States,,Charity
 National Fund for Scientific and Technological Development,FONDECYT,Chile,ANID/FONDECYT,Funder
 "Ministry of Science, Technology and Innovation",MinCiencias,Colombia,,Funder
-"National Council of Humanities, Sciences and Technologies",CONAHCYT,Mexico,,Funder
-"National Council for Science, Technology and Technological Innovation",CONCYTEC,Peru,PROCIENCIA,Funder
+"Consejo Nacional de Ciencia y Tecnología",CONACYT,Mexico,,Funder
+"Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica",CONCYTEC,Peru,,Funder
 National Research Fund,NRF,Kenya,,Funder
 Tertiary Education Trust Fund,TETFund,Nigeria,,Funder
 Ministry of Higher Education Malaysia Grants System,MyGRANTS,Malaysia,MOHE,Funder
@@ -94,15 +93,15 @@ Qatar National Research Fund,QNRF,Qatar,,Funder
 National Agency for Research and Innovation,ANII,Uruguay,Agencia Nacional de Investigación e Innovación,Funder
 "National Agency for the Promotion of Research, Technological Development and Innovation",Agencia I+D+i,Argentina,,Funder
 National Research Foundation,NRF,South Africa,,Funder
-"Secretariat of Higher Education, Science, Technology and Innovation",SENESCYT,Ecuador,,Funder
+"Secretaría de Educación Superior, Ciencia, Tecnología e Innovación",SENESCYT,Ecuador,,Funder
 "Ministry of Science, Technology and Telecommunications",MICITT,Costa Rica,,Funder
 Carlos Chagas Filho Research Support Foundation,FAPERJ,Brazil,,Funder
 Minas Gerais Research Foundation,FAPEMIG,Brazil,,Funder
 Funding Authority for Studies and Projects,FINEP,Brazil,,Funder
 Uganda National Council for Science and Technology,UNCST,Uganda,,Funder
 Tanzania Commission for Science and Technology,COSTECH,Tanzania,,Funder
-African Academy of Sciences – Alliance for Accelerating Excellence in Science in Africa,AESA,International (Africa),,Funder
-Indonesia Endowment Fund for Education,LPDP,Indonesia,,Funder
+Alliance for Accelerating Excellence in Science in Africa,AESA,International (Africa),,Funder
+Lembaga Pengelola Dana Pendidikan,LPDP,Indonesia,Indonesia Endowment Fund for Education,Funder
 National Research and Innovation Agency,BRIN,Indonesia,,Funder
 Department of Science and Technology,DOST,Philippines,,Funder
 Higher Education Commission,HEC,Pakistan,,Funder
@@ -111,22 +110,92 @@ National Science Foundation,NSF,Sri Lanka,,Funder
 Nepal Academy of Science and Technology,NAST,Nepal,,Funder
 National Agency for Research on AIDS and Viral Hepatitis,ANRS,France,ANRS MIE,Funder
 "French Agency for Food, Environmental and Occupational Health & Safety",ANSES,France,,Funder
-National Cancer Institute,INCa,France,Institut National du Cancer,Funder
+National Cancer Institute,INCa,France,Institut National du Cancer|French National Cancer Institute,Funder
 Hubert Curien Partnerships,PHC,France,Partenariat Hubert Curien,Funder
 Hospital Program for Clinical Research,PHRC,France,Programme Hospitalier de Recherche Clinique,Funder
 Navigation Fund,,International,,Charity
-France 2030 Investment Plan,PIA,France,Programme d’Investissements d’Avenir,Funder
-China Scholarship Council, CSC, China,,Funder
+France 2030 Investment Plan,PIA,France,Programme d’Investissements d’Avenir|Investissements d'Avenir|Labex|Equipex|France 2030,Funder
+China Scholarship Council,CSC,China,Chinese Scholarship Council,Funder
+China Postdoctoral Science Foundation,,China,,Funder
 Engineering and Physical Sciences Research Council,EPSRC,United Kingdom,,Funder
+Natural Environment Research Council,NERC,United Kingdom,,Funder
+Medical Research Council,MRC,United Kingdom,,Funder
+Economic and Social Research Council,ESRC,United Kingdom,,Funder
 Science and Technology Facilities Council,STFC,United Kingdom,,Funder
 European Regional Development Fund,ERDF,European Union,FEDER - Fonds européen de développement régional,Funder
 Royal Society,,United Kingdom,,Funder
 Russian Science Foundation,,Russia,,Funder
+Russian Foundation for Basic Research,,Russia,,Funder
 Japan Society for the Promotion of Science,JSPS,Japan,,Funder
-EUROfusion consortium,EUROfusion,European Union,,Funder
+EUROfusion,,European Union,,Funder
 Institut universitaire de France,IUF,France,,Funder
-Région Ile de France
-Région Pays de la Loire
-Région Grand Est # Lorraine
-Région Auvergne Rhône Alpes
-Région Occitanie
+Région Ile de France,,France,Région IdF,Funder
+Région Pays de la Loire,,France,,Funder
+Région Bretagne,,France,Brittany region,Funder
+Région Grand Est,,France,Région Alsace|Région Lorraine,Funder
+Région Auvergne Rhône Alpes,,France,Région Auvergne|Région Rhône Alpes|Rhône-Alpes Region,Funder
+Région Occitanie,,France,Région Midi Pyrénées,Funder
+Région Nouvelle Aquitaine,,France,Conseil régional d'aquitaine,Funder
+Région Hauts-de-France,,France,Région Nord pas de calais|Hauts-de-France Region|Nord-Pas de Calais Regional Council,Funder
+Région Normandie,,France,,Funder
+Région Centre-Val de Loire,,France,Région centre,Funder
+Région Provence-Alpes-Côte d'Azur,,France, Région PACA,Funder
+Région Bourgogne Franche-Comté,,France,Région Bourgogne|Regional Council of Burgundy,Funder
+Walloon Region,,Belgium,,Funder
+Research Foundation Flanders,FWO,Belgium,,Funder
+Research Council of Norway,,Norway,,Funder
+Leverhulme Trust,,United Kingdom,,Charity
+Fondation de France,,France,,Funder
+Fondation pour la Recherche Médicale,FRM,France,,Funder
+Generalitat de Catalunya,,Spain,,Funder
+Generalitat Valenciana,,Spain,,Funder
+Comunidad de Madrid,,Spain,,Funder
+Xunta de Galicia,,Spain,,Funder
+Junta de Andalucía,,Spain,,Funder
+Alexander von Humboldt Foundation,,Germany,,Funder
+Campus France,,France,,Funder
+BPI France,,France,BPI|BPIFrance,Funder
+German Research Foundation,,Germany,,Funder
+European Space Agency,ESA,European Union,,Funder
+Cancer Research UK,,United Kingdom,,Funder
+Ministry of Economy and Competitiveness,MINECO,Spain,,Funder
+European Social Fund,ESF,European Union,,Funder
+Knut and Alice Wallenberg Foundation,,Sweden,Wallenberg Foundation|KAW Foundation,Charity
+Science Foundation Ireland,,Ireland,,Funder
+Irish Research Council,,Ireland,,Funder
+British Heart Foundation,,United Kingdom,,Funder
+Slovenian Research Agency,,Slovenia,,Funder
+"Ministry of Education, Culture, Sports, Science and Technology",MEXT,Japan,,Funder
+Gordon and Betty Moore Foundation,,United States,Moore Foundation,Charity
+Kavli Foundation,,United States,,Charity
+Ligue Nationale Contre le Cancer,,France,,Funder
+Human Frontier Science Program,HFSP,International,,Funder
+Fyssen Foundation,,France,Fondation Fryssen,Funder
+Croatian Science Foundation,,Croatia,,Funder
+Estonian Research Council,,Estonia,,Funder
+Lundbeck Foundation,,Denmark,,Funder
+Villum Foundation,,Denmark,Villum Fonden,Funder
+Sigrid Juselius Foundation,,Finland,,Funder
+Jane and Aatos Erkko Foundation,,Finland,,Funder
+Crafoord Foundation,,Sweden,,Funder
+Emil Aaltonen Foundation,,Finland,,Funder
+National Basic Research Program of China,,China,,Funder
+Slovak Research and Development Agency,,Slovakia,,Funder
+Volkswagen Foundation,,Germany,,Charity
+Carlsberg Foundation,,Germany,,Charity
+Fondation Bettencourt Schueller,,France,,Charity
+Ville de Paris,,France,City of Paris,Funder
+Rennes Métropole,,France,,Funder
+Nantes Métropole,,France,,Funder
+Métropole Européenne de Lille,,France,,Funder
+Fonds National de la Recherche Luxembourg,LNR,Luxembourg,Luxembourg National Research Fund,Funder
+Fondation ARC pour la recherche sur le cancer,,France,Fondation ARC,Funder
+Welch Foundation,,United States,,Funder
+Cariplo Foundation,,Italy,,Charity
+Michael J. Fox Foundation,,United States,Fox Foundation,Funder
+Heising-Simons Foundation,,United States,HS Foundation,Funder
+Fondation Leducq,,France,,Funder
+Association Française contre les Myopathies,AFM,France,,Funder
+Swedish Foundation for Strategic Research,SFSR,Sweden,,Funder
+Total Foundation,,France,,Funder
+la Caixa Foundation,,Spain,,Funder
