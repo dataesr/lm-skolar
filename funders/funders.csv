@@ -6,7 +6,7 @@ Bill & Melinda Gates Foundation,Gates Foundation,United States,BMGF,Charity
 Social Sciences and Humanities Research Council,SSHRC,Canada,,Funder
 Netherlands Organisation for Scientific Research,NWO,Netherlands,Nederlandse Organisatie voor Wetenschappelijk Onderzoek|Dutch Research Council,Funder
 National Health and Medical Research Council,NHMRC,Australia,,Funder
-Grants-in-Aid for Scientific Research,KAKEN,Japan,KAKENHI,Funder
+Japan Society for the Promotion of Science,JSPS,Japan,KAKEN|Grants-in-Aid for Scientific Research,Funder
 French National Research Agency,ANR,France,Agence Nationale de la Recherche,Funder
 Association Nationale de la Recherche et de la Technologie,ANRT,France,,Funder
 Canadian Institutes of Health Research,CIHR,Canada,,Funder
@@ -31,7 +31,6 @@ Netherlands Organisation for Health Research and Development,ZonMw,Netherlands,,
 "Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning",Formas,Sweden,,Funder
 "Swedish Research Council for Health, Working Life and Welfare",Forte,Sweden,,Funder
 Danmarks Frie Forskningsfond,DFF,Denmark,Research Council of Denmark,Funder
-Independent Research Fund Denmark,IRFD,Denmark,Danmarks Frie Forskningsfond,Funder
 Foundation for Science and Technology,FCT,Portugal,Fundação para a Ciência e a Tecnologia|Portuguese Foundation for Science and Technology,Funder
 State Research Agency,AEI,Spain,Agencia Estatal de Investigación,Funder
 Carlos III Health Institute,ISCIII,Spain,Instituto de Salud Carlos III,Funder
@@ -113,10 +112,8 @@ National Agency for Research on AIDS and Viral Hepatitis,ANRS,France,ANRS MIE,Fu
 National Cancer Institute,INCa,France,Institut National du Cancer|French National Cancer Institute,Funder
 Hubert Curien Partnerships,PHC,France,Partenariat Hubert Curien,Funder
 Hospital Program for Clinical Research,PHRC,France,Programme Hospitalier de Recherche Clinique,Funder
-Navigation Fund,,International,,Charity
 France 2030 Investment Plan,PIA,France,Programme d’Investissements d’Avenir|Investissements d'Avenir|Labex|Equipex|France 2030,Funder
 China Scholarship Council,CSC,China,Chinese Scholarship Council,Funder
-China Postdoctoral Science Foundation,,China,,Funder
 Engineering and Physical Sciences Research Council,EPSRC,United Kingdom,,Funder
 Natural Environment Research Council,NERC,United Kingdom,,Funder
 Medical Research Council,MRC,United Kingdom,,Funder
@@ -126,7 +123,6 @@ European Regional Development Fund,ERDF,European Union,FEDER - Fonds européen d
 Royal Society,,United Kingdom,,Funder
 Russian Science Foundation,,Russia,,Funder
 Russian Foundation for Basic Research,,Russia,,Funder
-Japan Society for the Promotion of Science,JSPS,Japan,,Funder
 EUROfusion,,European Union,,Funder
 Institut universitaire de France,IUF,France,,Funder
 Région Ile de France,,France,Région IdF,Funder
@@ -138,9 +134,9 @@ Région Occitanie,,France,Région Midi Pyrénées,Funder
 Région Nouvelle Aquitaine,,France,Conseil régional d'aquitaine,Funder
 Région Hauts-de-France,,France,Région Nord pas de calais|Hauts-de-France Region|Nord-Pas de Calais Regional Council,Funder
 Région Normandie,,France,,Funder
-Région Centre-Val de Loire,,France,Région centre,Funder
+Centre-Val de Loire,,France,Région centre,Funder
 Région Provence-Alpes-Côte d'Azur,,France, Région PACA,Funder
-Région Bourgogne Franche-Comté,,France,Région Bourgogne|Regional Council of Burgundy,Funder
+Region Bourgogne-Franche-Comté,,France,Région Bourgogne|Regional Council of Burgundy,Funder
 Walloon Region,,Belgium,,Funder
 Research Foundation Flanders,FWO,Belgium,,Funder
 Research Council of Norway,,Norway,,Funder
@@ -154,8 +150,7 @@ Xunta de Galicia,,Spain,,Funder
 Junta de Andalucía,,Spain,,Funder
 Alexander von Humboldt Foundation,,Germany,,Funder
 Campus France,,France,,Funder
-BPI France,,France,BPI|BPIFrance,Funder
-German Research Foundation,,Germany,,Funder
+BPIFrance,,France,BPI|BPI France,Funder
 European Space Agency,ESA,European Union,,Funder
 Cancer Research UK,,United Kingdom,,Funder
 Ministry of Economy and Competitiveness,MINECO,Spain,,Funder
@@ -175,11 +170,11 @@ Croatian Science Foundation,,Croatia,,Funder
 Estonian Research Council,,Estonia,,Funder
 Lundbeck Foundation,,Denmark,,Funder
 Villum Foundation,,Denmark,Villum Fonden,Funder
-Sigrid Juselius Foundation,,Finland,,Funder
+Sigrid Jusélius Foundation,,Finland,,Funder
+Minerva Foundation,,Finland,,Funder
 Jane and Aatos Erkko Foundation,,Finland,,Funder
 Crafoord Foundation,,Sweden,,Funder
 Emil Aaltonen Foundation,,Finland,,Funder
-National Basic Research Program of China,,China,,Funder
 Slovak Research and Development Agency,,Slovakia,,Funder
 Volkswagen Foundation,,Germany,,Charity
 Carlsberg Foundation,,Germany,,Charity
@@ -199,3 +194,8 @@ Association Française contre les Myopathies,AFM,France,,Funder
 Swedish Foundation for Strategic Research,SFSR,Sweden,,Funder
 Total Foundation,,France,,Funder
 la Caixa Foundation,,Spain,,Funder
+Prince Albert II of Monaco Foundation,,Moncao,,Charity
+BNP Paribas Foundation,,France,,Funder
+Jenny and Antti Wihuri Foundation,,,,Funder
+W. M. Keck Foundation,,France,W. Keck Foundation,Funder
+Fondation de l'Avenir,,France,,Funder
