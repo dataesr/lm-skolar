@@ -1198,5 +1198,59 @@
     ],
     "infrastructures": [],
     "persons": []
+  },
+  {
+    "text": "Acknowledgements Authors would like to thank the personnel in the U3EP test station for the collection of faecal samples.They also acknowledge  Nathalie Quiniou  ( IFIP-Institut du Porc ) and  Didier Gaudr\u00e9  ( IFIP-Institut du Porc ) for helpful comments and insightful discussions about results obtained in this study. \n Financial support statement Digestibility data analysed in this study were collected within the  Feed-A-Gene  project, funded through the  European Union 's  H2020 programme  under grant agreement  n\u00b0633531 .",
+    "publication_id": "doi10.1016/j.animal.2021.100447",
+    "funders": [
+      {
+        "mention": "European Union's H2020 programme",
+        "canonical_name": "European Commission",
+        "funder_short": "EC",
+        "country": "EU",
+        "grant_ids": [
+          "633531"
+        ],
+        "programs": [
+          "Horizon 2020",
+          "H2020"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "Feed-A-Gene project",
+        "name": "Feed-A-Gene",
+        "funders": [
+          "European Union"
+        ],
+        "grant_id": "633531"
+      }
+    ],
+    "infrastructures": [
+      {
+        "mention": "U3EP test station",
+        "name": "U3EP test station",
+        "type": "experimental farm / testing facility"
+      }
+    ],
+    "persons": [
+      {
+        "name": "Nathalie Quiniou",
+        "role": "scientific discussion / support",
+        "affiliation": "IFIP-Institut du Porc"
+      },
+      {
+        "name": "Didier Gaudr\u00e9",
+        "role": "scientific discussion / support",
+        "affiliation": "IFIP-Institut du Porc"
+      }
+    ],
+    "private_companies": [
+      {
+        "mention": "IFIP-Institut du Porc",
+        "name": "IFIP-Institut du Porc"
+      }
+    ]
   }
 ]
