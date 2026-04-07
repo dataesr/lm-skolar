@@ -520,5 +520,683 @@
         "role": "editor"
       }
     ]
+  },
+  {
+    "text": "VI. ACKNOWLEDGMENTS The authors gratefully acknowledge the AGATA collaboration for the availability of the AGATA \u03b3 tracking array at GANIL.We would like to thank the GANIL accelerator staff for their technical contributions.We thank  A. O. Macchiavelli  for help in data collection during the experiment.SB, SB and RB acknowledge the support received from  CEFIPRA  project No.  5604-4  and SB, RP acknowledge the support from  LIA France-India  agreement.PB and AM acknowledge support from the  Polish National Science Centre (NCN)  under Contract No.  2016/22/M/ST2/00269  and the  French LEA COPI- GAL  project.HLC and PF acknowledge support from the  U.S. Department of Energy, Office of Science, Office of Nuclear Physics  under Contract No.  DE-AC02-05CH11231  (LBNL).RMPV acknowledge partial support by  Ministry of Science, Spain , under the grants  BES-2012-061407 ,  SEV-2014-0398 ,  FPA2017-84756-C4  and by  EU FEDER  funds.",
+    "publication_id": "doi10.1103/physrevc.102.044329",
+    "funders": [
+      {
+        "mention": "CEFIPRA",
+        "canonical_name": "Indo-French Centre for the Promotion of Advanced Research",
+        "funder_short": "CEFIPRA",
+        "country": "FR/IN",
+        "grant_ids": [
+          "5604-4"
+        ]
+      },
+      {
+        "mention": "Polish National Science Centre (NCN)",
+        "canonical_name": "National Science Centre Poland",
+        "funder_short": "NCN",
+        "country": "PL",
+        "grant_ids": [
+          "2016/22/M/ST2/00269"
+        ]
+      },
+      {
+        "mention": "U.S. Department of Energy, Office of Science, Office of Nuclear Physics",
+        "canonical_name": "U.S. Department of Energy",
+        "funder_short": "DOE",
+        "country": "US",
+        "grant_ids": [
+          "DE-AC02-05CH11231"
+        ],
+        "programs": [
+          "Office of Science",
+          "Office of Nuclear Physics"
+        ]
+      },
+      {
+        "mention": "Ministry of Science, Spain",
+        "canonical_name": "Ministry of Science and Innovation",
+        "funder_short": "MICIU",
+        "country": "ES",
+        "grant_ids": [
+          "BES-2012-061407",
+          "SEV-2014-0398",
+          "FPA2017-84756-C4"
+        ],
+        "programs": []
+      },
+      {
+        "mention": "EU FEDER funds",
+        "canonical_name": "European Regional Development Fund",
+        "funder_short": "FEDER",
+        "country": "European Union",
+        "grant_ids": [],
+        "programs": []
+      }
+    ],
+    "projects": [
+      {
+        "mention": "CEFIPRA project No. 5604-4",
+        "funders": [
+          "Indo-French Centre for the Promotion of Advanced Research"
+        ],
+        "grant_id": "5604-4"
+      },
+      {
+        "mention": "NCN Contract No. 2016/22/M/ST2/00269",
+        "funders": [
+          "National Science Centre Poland"
+        ],
+        "grant_id": "2016/22/M/ST2/00269"
+      },
+      {
+        "mention": "DOE Contract No. DE-AC02-05CH11231 (LBNL)",
+        "funders": [
+          "U.S. Department of Energy"
+        ],
+        "grant_id": "DE-AC02-05CH11231"
+      },
+      {
+        "mention": "Spanish grants BES-2012-061407, SEV-2014-0398, FPA2017-84756-C4",
+        "funders": [
+          "Ministry of Science and Innovation"
+        ],
+        "grant_id": [
+          "BES-2012-061407"
+        ]
+      },
+      {
+        "mention": "Spanish grants BES-2012-061407, SEV-2014-0398, FPA2017-84756-C4",
+        "funders": [
+          "Ministry of Science and Innovation"
+        ],
+        "grant_id": [
+          "SEV-2014-0398"
+        ]
+      },
+      {
+        "mention": "Spanish grants BES-2012-061407, SEV-2014-0398, FPA2017-84756-C4",
+        "funders": [
+          "Ministry of Science and Innovation"
+        ],
+        "grant_id": [
+          "FPA2017-84756-C4"
+        ]
+      },
+      {
+        "mention": "French LEA COPI-GAL project",
+        "name": "COPI-GAL",
+        "funders": []
+      },
+      {
+        "mention": "LIA France-India agreement",
+        "name": "LIA France-India",
+        "funders": []
+      }
+    ],
+    "infrastructures": [
+      {
+        "mention": "AGATA \u03b3 tracking array",
+        "name": "AGATA gamma tracking array",
+        "type": "scientific_instrument"
+      },
+      {
+        "mention": "AGATA collaboration",
+        "name": "AGATA collaboration",
+        "role": "infrastructure_provider"
+      },
+      {
+        "mention": "GANIL",
+        "name": "Grand Acc\u00e9l\u00e9rateur National d\u2019Ions Lourds",
+        "type": "accelerator_facility"
+      }
+    ],
+    "persons": [
+      {
+        "name": "A. O. Macchiavelli",
+        "role": "data collection support"
+      }
+    ]
+  },
+  {
+    "text": "We thank the anonymous referee for their careful review and suggestions to improve the contents of this manuscript. We are grateful to  Akihiko Hirota  for sharing their calibrated ALMA CO emission map. This work is based on observations made with the  NASA/ESA/CSA JWST . Support for program  JWST-GO-02291  was provided by  NASA  through a grant from the  Space Telescope Science Institute , which is operated by the  Associations of Universities for Research in Astronomy, Incorporated , under  NASA  contract  NAS 5-26555 . This work is based on observations made with the  NASA/ESA /CSA JWST. The data were obtained from the  Mikulski Archive for Space Telescopes  at the  Space Telescope Science Institute , which is operated by the  Association of Universities for Research in Astronomy, Inc ., under  NASA  contract  NAS 5-03127  for JWST. These observations are associated with program #02219. Facility: JWST(MIRI). Software: dust_extinction (Gordon et al. 2021).",
+    "publication_id": "doi10.3847/1538-4357/acc837",
+    "funders": [
+      {
+        "mention": "NASA",
+        "canonical_name": "National Aeronautics and Space Administration",
+        "funder_short": "NASA",
+        "country": "US",
+        "grant_ids": [
+          "NAS 5-26555",
+          "NAS 5-03127"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "NASA contract NAS 5-26555",
+        "funders": [
+          "National Aeronautics and Space Administration"
+        ],
+        "grant_id": "NAS 5-26555"
+      },
+      {
+        "mention": "NASA contract NAS 5-03127",
+        "funders": [
+          "National Aeronautics and Space Administration"
+        ],
+        "grant_id": "NAS 5-03127"
+      }
+    ],
+    "infrastructures": [
+      {
+        "mention": "NASA/ESA/CSA JWST",
+        "name": "James Webb Space Telescope",
+        "type": "space_observatory"
+      },
+      {
+        "mention": "JWST(MIRI)",
+        "name": "Mid-Infrared Instrument (MIRI)",
+        "type": "scientific_instrument"
+      },
+      {
+        "mention": "Mikulski Archive for Space Telescopes",
+        "name": "Mikulski Archive for Space Telescopes",
+        "type": "data_infrastructure"
+      },
+      {
+        "mention": "Space Telescope Science Institute",
+        "name": "Space Telescope Science Institute",
+        "type": "research_infrastructure_operator"
+      },
+      {
+        "mention": "ALMA CO emission map",
+        "name": "ALMA",
+        "type": "astronomical_observatory"
+      }
+    ],
+    "persons": [
+      {
+        "name": "Akihiko Hirota",
+        "role": "data provision (ALMA map)"
+      }
+    ]
+  },
+  {
+    "text": "Acknowledgments The authors gratefully acknowledge the support of the  United States National Science Foundation  for the construction and operation of the  LIGO Laboratory , the  Science and Technology Facilities Council of the United Kingdom , the  Max-Planck-Society , and the  State of Niedersachsen/Germany  for support of the construction and operation of the GEO600 detector, and the  Italian Istituto Nazionale di Fisica Nucleare  and the  French Centre National de la Recherche Scientifique  for the construction and operation of the Virgo detector.The authors also gratefully acknowledge the support of the research by these agencies and by the  Australian Research Council , the  International Science Linkages program of the Commonwealth of Australia , the  Council of Scientific and Industrial Research of India , the  Istituto Nazionale di Fisica Nucleare of Italy , the  Spanish Ministerio de Econom\u00eda y Competitividad , the  Conselleria d'Economia Hisenda i Innovaci\u00f3 of the Govern de les Illes Balears , the  Foundation for Fundamental Research on Matter  supported by the  Netherlands Organisation for Scientific Research , the  Polish Ministry of Science and Higher Education , the  FOCUS Programme of Foundation for Polish Science , the  Royal Society , the  Scottish Funding Council , the  Scottish Universities Physics Alliance , The  National Aeronautics and Space Administration , the  National Research Foundation of Korea, Industry Canada  and the  Province of Ontario  through the  Ministry of Economic Development and Innovation , the  National Science and Engineering Research Council Canada , the  Carnegie Trust , the  Leverhulme Trust , the  David and Lucile Packard Foundation , the  Research Corporation , and the  Alfred P. Sloan Foundation .This paper has been assigned LIGO Document Number ligo-p1200135 and Virgo TDS number  VIR-0379C-12 ",
+    "publication_id": "doi10.1063/1.4807558",
+    "funders": [
+      {
+        "mention": "United States National Science Foundation",
+        "canonical_name": "National Science Foundation",
+        "funder_short": "NSF",
+        "country": "US"
+      },
+      {
+        "mention": "Science and Technology Facilities Council of the United Kingdom",
+        "canonical_name": "Science and Technology Facilities Council",
+        "funder_short": "STFC",
+        "country": "UK"
+      },
+      {
+        "mention": "Max-Planck-Society",
+        "canonical_name": "Max Planck Society",
+        "funder_short": "MPG",
+        "country": "DE"
+      },
+      {
+        "mention": "State of Niedersachsen/Germany",
+        "canonical_name": "State of Lower Saxony",
+        "country": "DE"
+      },
+      {
+        "mention": "Italian Istituto Nazionale di Fisica Nucleare",
+        "canonical_name": "Istituto Nazionale di Fisica Nucleare",
+        "funder_short": "INFN",
+        "country": "IT"
+      },
+      {
+        "mention": "French Centre National de la Recherche Scientifique",
+        "canonical_name": "Centre National de la Recherche Scientifique",
+        "funder_short": "CNRS",
+        "country": "FR"
+      },
+      {
+        "mention": "Australian Research Council",
+        "canonical_name": "Australian Research Council",
+        "funder_short": "ARC",
+        "country": "AU"
+      },
+      {
+        "mention": "International Science Linkages program of the Commonwealth of Australia",
+        "canonical_name": "Commonwealth of Australia",
+        "country": "AU",
+        "programs": [
+          "International Science Linkages"
+        ]
+      },
+      {
+        "mention": "Council of Scientific and Industrial Research of India",
+        "canonical_name": "Council of Scientific and Industrial Research",
+        "funder_short": "CSIR",
+        "country": "IN"
+      },
+      {
+        "mention": "Spanish Ministerio de Econom\u00eda y Competitividad",
+        "canonical_name": "Ministry of Economy and Competitiveness",
+        "funder_short": "MINECO",
+        "country": "ES"
+      },
+      {
+        "mention": "Conselleria d'Economia Hisenda i Innovaci\u00f3 of the Govern de les Illes Balears",
+        "canonical_name": "Govern de les Illes Balears",
+        "country": "ES"
+      },
+      {
+        "mention": "Foundation for Fundamental Research on Matter supported by the Netherlands Organisation for Scientific Research",
+        "canonical_name": "Foundation for Fundamental Research on Matter",
+        "funder_short": "FOM",
+        "country": "NL"
+      },
+      {
+        "mention": "Netherlands Organisation for Scientific Research",
+        "canonical_name": "Netherlands Organisation for Scientific Research",
+        "funder_short": "NWO",
+        "country": "NL"
+      },
+      {
+        "mention": "Polish Ministry of Science and Higher Education",
+        "canonical_name": "Ministry of Science and Higher Education",
+        "country": "PL"
+      },
+      {
+        "mention": "FOCUS Programme of Foundation for Polish Science",
+        "canonical_name": "Foundation for Polish Science",
+        "funder_short": "FNP",
+        "country": "PL",
+        "programs": [
+          "FOCUS Programme"
+        ]
+      },
+      {
+        "mention": "Royal Society",
+        "canonical_name": "The Royal Society",
+        "country": "UK"
+      },
+      {
+        "mention": "Scottish Funding Council",
+        "canonical_name": "Scottish Funding Council",
+        "country": "UK"
+      },
+      {
+        "mention": "Scottish Universities Physics Alliance",
+        "canonical_name": "Scottish Universities Physics Alliance",
+        "funder_short": "SUPA",
+        "country": "UK"
+      },
+      {
+        "mention": "National Aeronautics and Space Administration",
+        "canonical_name": "National Aeronautics and Space Administration",
+        "funder_short": "NASA",
+        "country": "US"
+      },
+      {
+        "mention": "National Research Foundation of Korea",
+        "canonical_name": "National Research Foundation of Korea",
+        "funder_short": "NRF",
+        "country": "KR"
+      },
+      {
+        "mention": "Industry Canada",
+        "canonical_name": "Industry Canada",
+        "country": "CA"
+      },
+      {
+        "mention": "Province of Ontario through the Ministry of Economic Development and Innovation",
+        "canonical_name": "Ministry of Economic Development and Innovation (Ontario)",
+        "country": "CA"
+      },
+      {
+        "mention": "National Science and Engineering Research Council Canada",
+        "canonical_name": "Natural Sciences and Engineering Research Council of Canada",
+        "funder_short": "NSERC",
+        "country": "CA"
+      },
+      {
+        "mention": "Carnegie Trust",
+        "canonical_name": "Carnegie Trust for the Universities of Scotland",
+        "country": "UK"
+      },
+      {
+        "mention": "Leverhulme Trust",
+        "canonical_name": "Leverhulme Trust",
+        "country": "UK"
+      },
+      {
+        "mention": "David and Lucile Packard Foundation",
+        "canonical_name": "David and Lucile Packard Foundation",
+        "country": "US"
+      },
+      {
+        "mention": "Research Corporation",
+        "canonical_name": "Research Corporation for Science Advancement",
+        "country": "US"
+      },
+      {
+        "mention": "Alfred P. Sloan Foundation",
+        "canonical_name": "Alfred P. Sloan Foundation",
+        "country": "US"
+      }
+    ],
+    "projects": [],
+    "infrastructures": [
+      {
+        "mention": "LIGO Laboratory",
+        "name": "Laser Interferometer Gravitational-Wave Observatory",
+        "type": "gravitational_wave_observatory"
+      },
+      {
+        "mention": "GEO600 detector",
+        "name": "GEO600",
+        "type": "gravitational_wave_detector"
+      },
+      {
+        "mention": "Virgo detector",
+        "name": "Virgo",
+        "type": "gravitational_wave_detector"
+      }
+    ],
+    "persons": []
+  },
+  {
+    "text": "ACKNOWLEDGMENT This work is carried out within SIVALab, a shared laboratory between Renault and  Heudiasyc (UTC/CNRS) , and cofinanced by the  Hauts-de-France region  ( ERDF grant ) and Renault.",
+    "publication_id": "doi10.1109/icra.2019.8794270",
+    "funders": [
+      {
+        "mention": "Hauts-de-France region (ERDF grant)",
+        "canonical_name": "R\u00e9gion Hauts-de-France",
+        "country": "FR",
+        "programs": [
+          "European Regional Development Fund",
+          "ERDF",
+          "FEDER"
+        ]
+      },
+      {
+        "mention": "Renault",
+        "canonical_name": "Renault",
+        "country": "France"
+      }
+    ],
+    "projects": [],
+    "infrastructures": [],
+    "persons": [],
+    "private_companies": [
+      {
+        "mention": "Renault",
+        "name": "Renault",
+        "role": "industrial partner / co-funder"
+      }
+    ]
+  },
+  {
+    "text": "ACKNOWLEDGMENT This work is carried out within SIVALab, a shared laboratory between Renault and  Heudiasyc (UTC/CNRS) , and cofinanced by the  Hauts-de-France region  ( ERDF grant ) and Renault.",
+    "publication_id": "doi10.1109/icra.2019.8794270",
+    "funders": [
+      {
+        "mention": "Hauts-de-France region (ERDF grant)",
+        "canonical_name": "R\u00e9gion Hauts-de-France",
+        "country": "FR",
+        "programs": [
+          "European Regional Development Fund",
+          "ERDF",
+          "FEDER"
+        ]
+      },
+      {
+        "mention": "Renault",
+        "canonical_name": "Renault",
+        "country": "France"
+      }
+    ],
+    "projects": [],
+    "infrastructures": [],
+    "persons": [],
+    "private_companies": [
+      {
+        "mention": "Renault",
+        "name": "Renault",
+        "role": "industrial partner / co-funder"
+      }
+    ]
+  },
+  {
+    "text": "Acknowledgements We would like to thank  J.-Y.Berthou ,  H. Berry , and  P. Gesnouin  from  Inria ,  D. Debenedetti ,  M. He ,  R. Patel ,  G. Rouzaud ,  B. Schmauch , and  J. Du Terrail  from  Owkin , and  F. Lion  from  Gustave Roussy  for their support.This work was granted COVID-19 priority access to the  HPC resources of IDRIS (Jean Zay)  under  GENCI  allocations  2020-AD011011728  and  2020-AD011011769 .",
+    "publication_id": "doi10.1038/s41467-020-20657-4",
+    "funders": [],
+    "projects": [],
+    "infrastructures": [
+      {
+        "mention": "HPC resources of IDRIS (Jean Zay)",
+        "name": "Jean Zay supercomputer",
+        "type": "supercomputing_infrastructure"
+      },
+      {
+        "mention": "IDRIS",
+        "name": "Institut du D\u00e9veloppement et des Ressources en Informatique Scientifique",
+        "type": "supercomputing_center"
+      },
+      {
+        "mention": "GENCI",
+        "name": "Grand \u00c9quipement National de Calcul Intensif",
+        "type": "large_research_infrastructrure"
+      }
+    ],
+    "persons": [
+      {
+        "name": "J.-Y. Berthou",
+        "role": "support",
+        "affiliation": "Inria"
+      },
+      {
+        "name": "H. Berry",
+        "role": "support",
+        "affiliation": "Inria"
+      },
+      {
+        "name": "P. Gesnouin",
+        "role": "support",
+        "affiliation": "Inria"
+      },
+      {
+        "name": "D. Debenedetti",
+        "role": "support",
+        "affiliation": "Owkin"
+      },
+      {
+        "name": "M. He",
+        "role": "support",
+        "affiliation": "Owkin"
+      },
+      {
+        "name": "R. Patel",
+        "role": "support",
+        "affiliation": "Owkin"
+      },
+      {
+        "name": "G. Rouzaud",
+        "role": "support",
+        "affiliation": "Owkin"
+      },
+      {
+        "name": "B. Schmauch",
+        "role": "support",
+        "affiliation": "Owkin"
+      },
+      {
+        "name": "J. Du Terrail",
+        "role": "support",
+        "affiliation": "Owkin"
+      },
+      {
+        "name": "F. Lion",
+        "role": "support",
+        "affiliation": "Gustave Roussy"
+      }
+    ],
+    "private_companies": [
+      {
+        "mention": "Owkin",
+        "name": "Owkin",
+        "role": "industry partner"
+      }
+    ]
+  },
+  {
+    "text": "REMERCIEMENTS Ce travail a \u00e9t\u00e9 r\u00e9alis\u00e9 dans le cadre du projet ANR CoLoC (Confort des Logements Connect\u00e9s) du Plan de Relance, visant la pr\u00e9servation de l'emploi en R&D.",
+    "publication_id": "halhal-03687637",
+    "funders": [
+      {
+        "mention": "ANR CoLoC (Confort des Logements Connect\u00e9s) du Plan de Relance",
+        "canonical_name": "Agence Nationale de la Recherche",
+        "funder_short": "ANR",
+        "country": "FR",
+        "programs": [
+          "Plan de Relance"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "projet ANR CoLoC (Confort des Logements Connect\u00e9s)",
+        "name": "CoLoC",
+        "funders": [
+          "Agence Nationale de la Recherche"
+        ]
+      }
+    ],
+    "infrastructures": [],
+    "persons": []
+  },
+  {
+    "text": "Ringraziamenti Questo lavoro \u00e8 stato finanziato dalla Agence Nationale de la Recherche a Caterina Petrone per il progetto \"Rappresentazione e pianificazione di prosodia\" (ANR-14-CE30-0005-01). Si ringrazia inoltre l'Universit\u00e0 degli Studi di Napoli Federico II per aver permesso, con i programmi Erasmus Placement, la realizzazione dei progetti di studio di Giovanna De Bellis e di Simona Schiattarella. Ringraziamenti vanno a Celine De Looze per la realizzazione degli script in PRAAT che hanno consentito di estrarre le informazioni relative alla caratteristiche temporali delle interazioni conversazionali dei dialoghi presi in esame. Un ringraziamento particolare infine va alla Prof. ssa Francesca M.",
+    "publication_id": "halhalshs-01793210",
+    "funders": [
+      {
+        "mention": "Agence Nationale de la Recherche",
+        "canonical_name": "Agence Nationale de la Recherche",
+        "funder_short": "ANR",
+        "country": "FR",
+        "grant_ids": [
+          "ANR-14-CE30-0005-01"
+        ],
+        "programs": []
+      },
+      {
+        "mention": "programmi Erasmus Placement",
+        "canonical_name": "European Commission",
+        "funder_short": "EC",
+        "country": "EU",
+        "programs": [
+          "Erasmus Placement"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "progetto \"Rappresentazione e pianificazione di prosodia\" (ANR-14-CE30-0005-01)",
+        "name": "Rappresentazione e pianificazione di prosodia",
+        "funders": [
+          "Agence Nationale de la Recherche"
+        ],
+        "grant_id": "ANR-14-CE30-0005-01"
+      }
+    ],
+    "infrastructures": [],
+    "persons": [
+      {
+        "name": "Caterina Petrone",
+        "role": "principal investigator / grant recipient"
+      },
+      {
+        "name": "Giovanna De Bellis",
+        "role": "student mobility (Erasmus Placement)"
+      },
+      {
+        "name": "Simona Schiattarella",
+        "role": "student mobility (Erasmus Placement)"
+      },
+      {
+        "name": "Celine De Looze",
+        "role": "software development (Praat scripts)"
+      },
+      {
+        "name": "Francesca M."
+      }
+    ]
+  },
+  {
+    "text": "Danksagung Diese Arbeit wurde von der Deutschen Forschungsgemeinschaft und der franz\u00f6sischen Nationalen Forschungsagentur unterst\u00fctzt. (DFG, Grants BU 1351/20-1, BU 1351/20-2, BU 1351/23-1 und ANR, Grant ANR-18-CE92-0018-01). Open Access Ver\u00f6ffentlichung erm\u00f6glicht und organisiert durch Projekt DEAL.",
+    "publication_id": "doi10.1002/ange.202202866",
+    "funders": [
+      {
+        "mention": "Deutsche Forschungsgemeinschaft (DFG)",
+        "canonical_name": "Deutsche Forschungsgemeinschaft",
+        "funder_short": "DFG",
+        "country": "DE",
+        "grant_ids": [
+          "BU 1351/20-1",
+          "BU 1351/20-2",
+          "BU 1351/23-1"
+        ],
+        "programs": []
+      },
+      {
+        "mention": "franz\u00f6sische Nationale Forschungsagentur (ANR)",
+        "canonical_name": "Agence Nationale de la Recherche",
+        "funder_short": "ANR",
+        "country": "FR",
+        "grant_ids": [
+          "ANR-18-CE92-0018-01"
+        ],
+        "programs": []
+      }
+    ],
+    "projects": [
+      {
+        "mention": "DFG Grants BU 1351/20-1, BU 1351/20-2, BU 1351/23-1",
+        "funders": [
+          "Deutsche Forschungsgemeinschaft"
+        ],
+        "grant_id": "BU 1351/20-1"
+      },
+      {
+        "mention": "DFG Grants BU 1351/20-1, BU 1351/20-2, BU 1351/23-1",
+        "funders": [
+          "Deutsche Forschungsgemeinschaft"
+        ],
+        "grant_id": "BU 1351/20-2"
+      },
+      {
+        "mention": "DFG Grants BU 1351/20-1, BU 1351/20-2, BU 1351/23-1",
+        "funders": [
+          "Deutsche Forschungsgemeinschaft"
+        ],
+        "grant_id": "BU 1351/23-1"
+      },
+      {
+        "mention": "ANR Grant ANR-18-CE92-0018-01",
+        "funders": [
+          "Agence Nationale de la Recherche"
+        ],
+        "grant_id": "ANR-18-CE92-0018-01"
+      }
+    ],
+    "infrastructures": [],
+    "persons": []
   }
 ]
