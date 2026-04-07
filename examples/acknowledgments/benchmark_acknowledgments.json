@@ -1,0 +1,524 @@
+[
+  {
+    "text": "Acknowledgments This research is part of a collective research project jointly funded by  ANR  and  DFG , called CLAIMS (https://claims.hypotheses.org/68);it greatly bene-fited from discussions within the team.I also want to thank the two anonymous reviewers as well as  Brigitte Geissel  and  Petra Guasti  for their insightful comments and suggestions.",
+    "publication_id": "doi10.17645/pag.v7i3.2122",
+    "funders": [
+      {
+        "mention": "ANR",
+        "canonical_name": "Agence Nationale de la Recherche",
+        "funder_short": "ANR",
+        "country": "FR"
+      },
+      {
+        "mention": "DFG",
+        "canonical_name": "Deutsche Forschungsgemeinschaft",
+        "funder_short": "DFG",
+        "country": "DE"
+      }
+    ],
+    "projects": [
+      {
+        "mention": "CLAIMS",
+        "name": "CLAIMS",
+        "funders": [
+          "ANR",
+          "DFG"
+        ]
+      }
+    ],
+    "infrastructures": [],
+    "persons_thanked": [
+      {
+        "name": "Brigitte Geissel",
+        "role": "insightful comments and suggestions"
+      },
+      {
+        "name": "Petra Guasti",
+        "role": "insightful comments and suggestions"
+      }
+    ],
+    "private_companies": []
+  },
+  {
+    "text": "This work was supported by the National Natural Science Foundation of China (62272023, 51991391, 51991395).",
+    "publication_id": "doi10.1101/2022.02.26.482011",
+    "funders": [
+      {
+        "mention": "National Natural Science Foundation of China",
+        "canonical_name": "National Natural Science Foundation of China",
+        "funder_short": "NSFC",
+        "country": "CN",
+        "grant_ids": [
+          "62272023",
+          "51991391",
+          "51991395"
+        ],
+        "programs": []
+      }
+    ],
+    "projects": [
+      {
+        "mention": "National Natural Science Foundation of China (62272023, 51991391, 51991395)",
+        "grant_id": "62272023",
+        "funders": [
+          "National Natural Science Foundation of China"
+        ]
+      },
+      {
+        "mention": "National Natural Science Foundation of China (62272023, 51991391, 51991395)",
+        "grant_id": "51991391",
+        "funders": [
+          "National Natural Science Foundation of China"
+        ]
+      },
+      {
+        "mention": "National Natural Science Foundation of China (62272023, 51991391, 51991395)",
+        "grant_id": "51991395",
+        "funders": [
+          "National Natural Science Foundation of China"
+        ]
+      }
+    ],
+    "infrastructures": [],
+    "persons_thanked": [],
+    "private_companies": []
+  },
+  {
+    "text": "The research was supported in part by the DAAD funded by the Bundesministeriums f\u00fcr Bildung und Forschung (BMBF) (PPP USA 2018, 57387214) as well as the European Union\u2019s Horizon 2020 research and innovation program under the Marie Sk\u0142odowska-Curie grant agreement no. 812954.",
+    "publication_id": "doi10.17645/pag.v7i3.2122",
+    "funders": [
+      {
+        "mention": "Bundesministeriums f\u00fcr Bildung und Forschung",
+        "canonical_name": "Bundesministeriums f\u00fcr Bildung und Forschung",
+        "funder_short": "BMBF",
+        "country": "DE",
+        "grant_ids": [],
+        "programs": [
+          "DAAD"
+        ]
+      },
+      {
+        "mention": "European Union\u2019s Horizon 2020 research and innovation program under the Marie Sk\u0142odowska-Curie grant",
+        "canonical_name": "European Commission",
+        "funder_short": "EC",
+        "country": "EU",
+        "programs": [
+          "Horizon 2020",
+          "Marie Sk\u0142odowska-Curie Actions"
+        ],
+        "grant_ids": [
+          "812954"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "PPP USA 2018, 57387214",
+        "grant_id": "57387214",
+        "funders": [
+          "Bundesministeriums f\u00fcr Bildung und Forschung"
+        ]
+      },
+      {
+        "mention": "Marie Sk\u0142odowska-Curie grant agreement no. 812954",
+        "grant_id": "812954",
+        "funders": [
+          "European Commission"
+        ]
+      }
+    ],
+    "infrastructures": [],
+    "persons_thanked": [],
+    "private_companies": []
+  },
+  {
+    "text": "Acknowledgments This research was supported by  ANR  project  DAGDigDec (JCJC )  ANR-21-CE48-0012 .",
+    "publication_id": "doi10.37236/11050",
+    "funders": [
+      {
+        "mention": "ANR",
+        "canonical_name": "Agence Nationale de la Recherche",
+        "funder_short": "ANR",
+        "country": "FR",
+        "grant_ids": [
+          "ANR-21-CE48-0012"
+        ],
+        "programs": [
+          "JCJC"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "ANR  project  DAGDigDec (JCJC )  ANR-21-CE48-0012",
+        "funders": [
+          "Agence Nationale de la Recherche"
+        ],
+        "grant_id": "ANR-21-CE48-0012"
+      }
+    ],
+    "infrastructures": [],
+    "persons_thanked": [],
+    "private_companies": []
+  },
+  {
+    "text": "Je remercie \u00e9galement le projet GEM Flagship financ\u00e9 par  Labex NUMEV",
+    "publication_id": "hallirmm-03326344",
+    "funders": [
+      {
+        "mention": "ANR",
+        "canonical_name": "Agence Nationale de la Recherche",
+        "funder_short": "ANR",
+        "country": "FR",
+        "programs": [
+          "Labex NUMEV"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "projet GEM Flagship financ\u00e9 par  Labex NUMEV",
+        "funders": [
+          "Agence Nationale de la Recherche"
+        ],
+        "name": "GEM Flagship"
+      }
+    ],
+    "infrastructures": [],
+    "persons_thanked": [],
+    "private_companies": []
+  },
+  {
+    "text": "*The work was done when the author was with  Huawei Technologies . This work was partially supported by the  French National Research Agency (ANR)  project  ORACLESS , and the  Huawei Flagship  project  ULTRON. Algorithm",
+    "publication_id": "doi10.1109/infocom.2019.8737600",
+    "funders": [
+      {
+        "mention": "French National Research Agency (ANR)",
+        "canonical_name": "Agence Nationale de la Recherche",
+        "funder_short": "ANR",
+        "country": "FR"
+      }
+    ],
+    "projects": [
+      {
+        "mention": "project  ORACLESS",
+        "name": "ORACLESS",
+        "funders": [
+          "Agence Nationale de la Recherche"
+        ]
+      },
+      {
+        "mention": "Huawei Flagship  project  ULTRON",
+        "name": "ULTRON",
+        "funders": [
+          "Huawei"
+        ]
+      }
+    ],
+    "private_companies": [
+      {
+        "mention": "Huawei Technologies",
+        "name": "Huawei Technologies",
+        "role": "funding"
+      }
+    ]
+  },
+  {
+    "text": "Acknowledgments.This work has been partially funded by  ANRT  and  EDF  through an EDF-CIFRE contract  749/2014 .Computational facilities were provided by EDF.",
+    "publication_id": "doi10.1016/j.cam.2018.06.027",
+    "funders": [
+      {
+        "mention": "ANRT",
+        "canonical_name": "Association Nationale de la Recherche et de la Technologie",
+        "funder_short": "ANRT",
+        "country": "FR",
+        "grant_ids": [
+          "749/2014"
+        ],
+        "programs": [
+          "CIFRE"
+        ]
+      },
+      {
+        "mention": "EDF",
+        "canonical_name": "Electricit\u00e9 de France",
+        "funder_short": "EDF",
+        "country": "FR",
+        "grant_ids": [
+          "749/2014"
+        ],
+        "programs": [
+          "CIFRE"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "EDF-CIFRE contract",
+        "name": "EDF-CIFRE",
+        "funders": [
+          "EDF",
+          "ANRT"
+        ],
+        "grant_id": "749/2014"
+      }
+    ],
+    "infrastructures": [
+      {
+        "mention": "Computational facilities",
+        "name": "Computational facilities",
+        "type": "computational_facility"
+      }
+    ],
+    "private_companies": [
+      {
+        "mention": "EDF",
+        "name": "Electricit\u00e9 de France",
+        "role": [
+          "funding",
+          "computational_facility"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "We thank the referee for the detailed comments. The au-\nthors would like to thank Luke Keyte and Dylan T. Natoewal for the use-\nful discussions on the DALI modelling. In addition, Michiel Hogerheijde is\nthanked for the discussion on water in the HD 100546 disk. This work is sup-\nported by grant 618.000.001 from the Dutch Research Council (NWO). As-\ntrochemistry in Leiden is supported by funding from the European Research\nCouncil (ERC) under the European Union\u2019s Horizon 2020 research and inno-\nvation programme (grant agreement No. 101019751 MOLDISK), by the Nether-\nlands Research School for Astronomy (NOVA). This paper makes use of the\nfollowing ALMA projects: 2011.0.00863.S, 2015.1.00806.S, 2016.1.00344.S,\n2018.1.00141.S, 2021.1.00738.S. ALMA is a partnership of ESO (representing\nits member states), NSF (USA) and NINS (Japan), together with NRC (Canada),\nMOST and ASIAA (Taiwan), and KASI (Republic of Korea), in cooperation\nwith the Republic of Chile. The Joint ALMA Observatory is operated by ESO,\nAUI/NRAO and NAOJ. The National Radio Astronomy Observatory is a facil-\nity of the National Science Foundation operated under cooperative agreement by\n\nAssociated Universities, Inc.",
+    "publication_id": "doi10.48550/arxiv.2405.10361",
+    "funders": [
+      {
+        "mention": "Dutch Research Council (NWO)",
+        "canonical_name": "Dutch Research Council",
+        "funder_short": "NWO",
+        "country": "NL",
+        "grant_ids": [
+          "618.000.001"
+        ],
+        "programs": []
+      },
+      {
+        "mention": "European Research Council (ERC) under the European Union\u2019s Horizon 2020 research and innovation programme",
+        "canonical_name": "European Commission",
+        "funder_short": "EC",
+        "country": "EU",
+        "grant_ids": [
+          "101019751"
+        ],
+        "programs": [
+          "Horizon 2020",
+          "ERC"
+        ]
+      },
+      {
+        "mention": "Netherlands Research School for Astronomy (NOVA)",
+        "canonical_name": "Netherlands Research School for Astronomy",
+        "funder_short": "NOVA",
+        "country": "NL",
+        "grant_ids": [],
+        "programs": []
+      },
+      {
+        "mention": "National Science Foundation (NSF)",
+        "canonical_name": "National Science Foundation",
+        "funder_short": "NSF",
+        "country": "US",
+        "grant_ids": [],
+        "programs": []
+      }
+    ],
+    "projects": [
+      {
+        "mention": "grant 618.000.001 from the Dutch Research Council (NWO)",
+        "funders": [
+          "Dutch Research Council"
+        ],
+        "grant_id": "618.000.001"
+      },
+      {
+        "mention": "ERC Horizon 2020 (grant agreement No. 101019751 MOLDISK)",
+        "name": "MOLDISK",
+        "funders": [
+          "EU"
+        ],
+        "grant_id": "101019751"
+      }
+    ],
+    "infrastructures": [
+      {
+        "mention": "ALMA",
+        "name": "Atacama Large Millimeter/submillimeter Array",
+        "type": "astronomical_observatory"
+      },
+      {
+        "mention": "Joint ALMA Observatory",
+        "name": "Joint ALMA Observatory",
+        "type": "research_infrastructure_operator"
+      },
+      {
+        "mention": "National Radio Astronomy Observatory",
+        "name": "National Radio Astronomy Observatory",
+        "type": "astronomical_observatory"
+      }
+    ]
+  },
+  {
+    "text": "AGRADECIMIENTOS Al CODI de la Universidad de Antioquia por la financiaci\u00f3n a trav\u00e9s del proyecto PRG14-1-07, de la estrategia de sostenibilidad 2014-2015 y de la beca joven investigador CODI y a Colciencias por la beca Joven Investigador e Innovador 2014.",
+    "publication_id": "doi10.1590/s1517-707620180002.0375",
+    "funders": [
+      {
+        "mention": "CODI de la Universidad de Antioquia",
+        "canonical_name": "Comit\u00e9 para el Desarrollo de la Investigaci\u00f3n - Universidad de Antioquia",
+        "funder_short": "CODI",
+        "country": "CO",
+        "grant_ids": [
+          "PRG14-1-07"
+        ],
+        "programs": [
+          "Estrategia de sostenibilidad 2014-2015",
+          "Beca joven investigador CODI"
+        ]
+      },
+      {
+        "mention": "Colciencias",
+        "canonical_name": "Departamento Administrativo de Ciencia, Tecnolog\u00eda e Innovaci\u00f3n",
+        "funder_short": "Colciencias",
+        "country": "CO",
+        "grant_ids": [],
+        "programs": [
+          "Joven Investigador e Innovador 2014"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "proyecto PRG14-1-07",
+        "funders": [
+          "CODI"
+        ],
+        "grant_id": "PRG14-1-07"
+      }
+    ]
+  },
+  {
+    "text": "Acknowledgements This work was done during the BioHackathon Europe 2020 organized by  ELIXIR  in November 2020. We thank the organizers and fellow participants. DSW development is supported by  ELIXIR CZ research infrastructure  project ( MEYS  Grant No:  LM2015047 ) and  ELIXIR CONVERGE  ( Horizon 2020 ).",
+    "publication_id": "doi10.37044/osf.io/9mnkb",
+    "funders": [
+      {
+        "mention": "MEYS Grant No: LM2015047",
+        "canonical_name": "Ministry of Education, Youth and Sports",
+        "funder_short": "MEYS",
+        "country": "Czech Republic",
+        "grant_ids": [
+          "LM2015047"
+        ],
+        "programs": []
+      },
+      {
+        "mention": "Horizon 2020",
+        "canonical_name": "European Commission",
+        "funder_short": "EC",
+        "country": "EU",
+        "grant_ids": [],
+        "programs": [
+          "Horizon 2020"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "ELIXIR CZ research infrastructure project (MEYS Grant No: LM2015047)",
+        "name": "ELIXIR CZ research infrastructure project",
+        "funders": [
+          "Ministry of Education, Youth and Sports"
+        ],
+        "grant_id": "LM2015047"
+      },
+      {
+        "mention": "ELIXIR CONVERGE (Horizon 2020)",
+        "name": "ELIXIR CONVERGE",
+        "funders": [
+          "European Commission"
+        ],
+        "grant_id": null
+      }
+    ],
+    "infrastructures": [
+      {
+        "mention": "ELIXIR CZ research infrastructure",
+        "name": "ELIXIR Czech Republic Node",
+        "type": "research_infrastructure"
+      },
+      {
+        "mention": "ELIXIR",
+        "name": "ELIXIR",
+        "type": "distributed_research_infrastructure"
+      }
+    ]
+  },
+  {
+    "text": "Acknowledgments We would like to thank  Germinal Rouhan  for granting us access to the Passifloraceae collections at the  Paris Herbarium , as well as  Myriam Gaudeul  for allowing us to collect the seeds for this study. We also extend our gratitude to  Vincent Rommevaux  for preparing the thin sections of the seeds and  Olivier Bethoux  for providing the camera and camera lens. We would also like to thank the reviewers,  Elizabeth Hermsen  and  Steven Manchester , for their great improvements to the article, and the editor,  Marie-B\u00e9atrice Forel . This study benefited from the Hirox RH-2000 equipment funded by the  DIM PAMIR  ( MIRCoV  project).",
+    "publication_id": "doi10.5852/ejt.2024.943.2583",
+    "funders": [
+      {
+        "mention": "DIM PAMIR (MIRCoV project)",
+        "canonical_name": "R\u00e9gion Ile-de-France",
+        "funder_short": "R\u00e9gion IdF",
+        "country": "FR",
+        "grant_ids": [],
+        "programs": [
+          "DIM PAMIR"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "mention": "MIRCoV project",
+        "name": "MIRCoV",
+        "funders": [
+          "R\u00e9gion Ile-de-France"
+        ]
+      }
+    ],
+    "infrastructures": [
+      {
+        "mention": "Paris Herbarium",
+        "name": "Herbier de Paris",
+        "type": "research_collection"
+      },
+      {
+        "mention": "Hirox RH-2000 equipment",
+        "name": "Hirox RH-2000",
+        "type": "scientific_instrument"
+      }
+    ],
+    "persons_thanked": [
+      {
+        "name": "Germinal Rouhan",
+        "role": "access to collections"
+      },
+      {
+        "name": "Myriam Gaudeul",
+        "role": "seed collection authorization"
+      },
+      {
+        "name": "Vincent Rommevaux",
+        "role": "technical support"
+      },
+      {
+        "name": "Olivier Bethoux",
+        "role": "equipment provision"
+      },
+      {
+        "name": "Elizabeth Hermsen",
+        "role": "reviewer"
+      },
+      {
+        "name": "Steven Manchester",
+        "role": "reviewer"
+      },
+      {
+        "name": "Marie-B\u00e9atrice Forel",
+        "role": "editor"
+      }
+    ]
+  }
+]
