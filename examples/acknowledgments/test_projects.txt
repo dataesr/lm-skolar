@@ -1,0 +1,13 @@
+MISSING projects name | EDF-CIFRE not detected
+Expected: ['EDF-CIFRE']
+Prediction: []
+Text: Acknowledgments.This work has been partially funded by  ANRT  and  EDF  through an EDF-CIFRE contract  749/2014 .Computational facilities were provided by EDF.
+
+----
+FALSE projects name | Danksagung detected as name of projects but should not
+FALSE projects name | Open Access Veröffentlichung detected as name of projects but should not
+Expected: []
+Prediction: ['Danksagung', 'Open Access Veröffentlichung']
+Text: Danksagung Diese Arbeit wurde von der Deutschen Forschungsgemeinschaft und der französischen Nationalen Forschungsagentur unterstützt. (DFG, Grants BU 1351/20-1, BU 1351/20-2, BU 1351/23-1 und ANR, Grant ANR-18-CE92-0018-01). Open Access Veröffentlichung ermöglicht und organisiert durch Projekt DEAL.
+
+----

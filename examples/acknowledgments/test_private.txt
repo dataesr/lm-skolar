@@ -1,0 +1,7 @@
+MISSING private_companies name | IFIP-Institut du Porc not detected
+Expected: ['IFIP-Institut du Porc']
+Prediction: []
+Text: Acknowledgements Authors would like to thank the personnel in the U3EP test station for the collection of faecal samples.They also acknowledge  Nathalie Quiniou  ( IFIP-Institut du Porc ) and  Didier Gaudré  ( IFIP-Institut du Porc ) for helpful comments and insightful discussions about results obtained in this study. 
+ Financial support statement Digestibility data analysed in this study were collected within the  Feed-A-Gene  project, funded through the  European Union 's  H2020 programme  under grant agreement  n°633531 .
+
+----

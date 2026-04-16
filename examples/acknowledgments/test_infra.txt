@@ -1,0 +1,44 @@
+MISSING infrastructure name | Computational facilities not detected
+FALSE infrastructure name | Électricité de France detected as name of infrastructure but should not
+Expected: ['Computational facilities']
+Prediction: ['Électricité de France']
+Text: Acknowledgments.This work has been partially funded by  ANRT  and  EDF  through an EDF-CIFRE contract  749/2014 .Computational facilities were provided by EDF.
+
+----
+MISSING infrastructure name | ELIXIR Czech Republic Node not detected
+MISSING infrastructure name | ELIXIR not detected
+Expected: ['ELIXIR Czech Republic Node', 'ELIXIR']
+Prediction: []
+Text: Acknowledgements This work was done during the BioHackathon Europe 2020 organized by  ELIXIR  in November 2020. We thank the organizers and fellow participants. DSW development is supported by  ELIXIR CZ research infrastructure  project ( MEYS  Grant No:  LM2015047 ) and  ELIXIR CONVERGE  ( Horizon 2020 ).
+
+----
+MISSING infrastructure name | RH-2000 not detected
+FALSE infrastructure name | RH-2000 equipment detected as name of infrastructure but should not
+Expected: ['Paris Herbarium', 'RH-2000']
+Prediction: ['Paris Herbarium', 'RH-2000 equipment']
+Text: Acknowledgments We would like to thank  Germinal Rouhan  for granting us access to the Passifloraceae collections at the  Paris Herbarium , as well as  Myriam Gaudeul  for allowing us to collect the seeds for this study. We also extend our gratitude to  Vincent Rommevaux  for preparing the thin sections of the seeds and  Olivier Bethoux  for providing the camera and camera lens. We would also like to thank the reviewers,  Elizabeth Hermsen  and  Steven Manchester , for their great improvements to the article, and the editor,  Marie-Béatrice Forel . This study benefited from the Hirox RH-2000 equipment funded by the  DIM PAMIR  ( MIRCoV  project).
+
+----
+FALSE infrastructure name | SIVALab detected as name of infrastructure but should not
+Expected: []
+Prediction: ['SIVALab']
+Text: ACKNOWLEDGMENT This work is carried out within SIVALab, a shared laboratory between Renault and  Heudiasyc (UTC/CNRS) , and cofinanced by the  Hauts-de-France region  ( ERDF grant ) and Renault.
+
+----
+MISSING infrastructure name | Jean Zay supercomputer not detected
+MISSING infrastructure name | Institut du Développement et des Ressources en Informatique Scientifique not detected
+MISSING infrastructure name | Grand Équipement National de Calcul Intensif not detected
+FALSE infrastructure name | Institut du développement et des ressources en informatique scientifique (IDRIS) detected as name of infrastructure but should not
+FALSE infrastructure name | Gustave Roussy detected as name of infrastructure but should not
+Expected: ['Jean Zay supercomputer', 'Institut du Développement et des Ressources en Informatique Scientifique', 'Grand Équipement National de Calcul Intensif']
+Prediction: ['Institut du développement et des ressources en informatique scientifique (IDRIS)', 'Gustave Roussy']
+Text: Acknowledgements We would like to thank  J.-Y.Berthou ,  H. Berry , and  P. Gesnouin  from  Inria ,  D. Debenedetti ,  M. He ,  R. Patel ,  G. Rouzaud ,  B. Schmauch , and  J. Du Terrail  from  Owkin , and  F. Lion  from  Gustave Roussy  for their support.This work was granted COVID-19 priority access to the  HPC resources of IDRIS (Jean Zay)  under  GENCI  allocations  2020-AD011011728  and  2020-AD011011769 .
+
+----
+MISSING infrastructure name | U3EP test station not detected
+Expected: ['U3EP test station']
+Prediction: []
+Text: Acknowledgements Authors would like to thank the personnel in the U3EP test station for the collection of faecal samples.They also acknowledge  Nathalie Quiniou  ( IFIP-Institut du Porc ) and  Didier Gaudré  ( IFIP-Institut du Porc ) for helpful comments and insightful discussions about results obtained in this study. 
+ Financial support statement Digestibility data analysed in this study were collected within the  Feed-A-Gene  project, funded through the  European Union 's  H2020 programme  under grant agreement  n°633531 .
+
+----

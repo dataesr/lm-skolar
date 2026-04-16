@@ -1,0 +1,38 @@
+FALSE funders canonical_name | Deutscher Akademischer Austauschdienst detected as canonical_name of funders but should not
+Expected: ['Bundesministerium für Bildung und Forschung', 'European Commission']
+Prediction: ['Bundesministerium für Bildung und Forschung', 'Deutscher Akademischer Austauschdienst', 'European Commission']
+Text: The research was supported in part by the DAAD funded by the Bundesministeriums für Bildung und Forschung (BMBF) (PPP USA 2018, 57387214) as well as the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement no. 812954.
+
+----
+FALSE funders canonical_name | Huawei Technologies detected as canonical_name of funders but should not
+Expected: ['Agence Nationale de la Recherche']
+Prediction: ['Agence Nationale de la Recherche', 'Huawei Technologies']
+Text: *The work was done when the author was with  Huawei Technologies . This work was partially supported by the  French National Research Agency (ANR)  project  ORACLESS , and the  Huawei Flagship  project  ULTRON. Algorithm
+
+----
+MISSING funders canonical_name | European Commission not detected
+FALSE funders canonical_name | ELIXIR detected as canonical_name of funders but should not
+Expected: ['Ministry of Education, Youth and Sports of the Czech Republic', 'European Commission']
+Prediction: ['ELIXIR', 'Ministry of Education, Youth and Sports of the Czech Republic']
+Text: Acknowledgements This work was done during the BioHackathon Europe 2020 organized by  ELIXIR  in November 2020. We thank the organizers and fellow participants. DSW development is supported by  ELIXIR CZ research infrastructure  project ( MEYS  Grant No:  LM2015047 ) and  ELIXIR CONVERGE  ( Horizon 2020 ).
+
+----
+FALSE funders canonical_name | European Commission detected as canonical_name of funders but should not
+Expected: ['Région Hauts-de-France', 'Renault']
+Prediction: ['European Commission', 'Région Hauts-de-France', 'Renault']
+Text: ACKNOWLEDGMENT This work is carried out within SIVALab, a shared laboratory between Renault and  Heudiasyc (UTC/CNRS) , and cofinanced by the  Hauts-de-France region  ( ERDF grant ) and Renault.
+
+----
+FALSE funders canonical_name | Grand Équipement National de Calcul Intensif detected as canonical_name of funders but should not
+Expected: []
+Prediction: ['Grand Équipement National de Calcul Intensif']
+Text: Acknowledgements We would like to thank  J.-Y.Berthou ,  H. Berry , and  P. Gesnouin  from  Inria ,  D. Debenedetti ,  M. He ,  R. Patel ,  G. Rouzaud ,  B. Schmauch , and  J. Du Terrail  from  Owkin , and  F. Lion  from  Gustave Roussy  for their support.This work was granted COVID-19 priority access to the  HPC resources of IDRIS (Jean Zay)  under  GENCI  allocations  2020-AD011011728  and  2020-AD011011769 .
+
+----
+MISSING funders canonical_name | European Commission not detected
+FALSE funders canonical_name | Università degli Studi di Napoli Federico II detected as canonical_name of funders but should not
+Expected: ['Agence Nationale de la Recherche', 'European Commission']
+Prediction: ['Agence Nationale de la Recherche', 'Università degli Studi di Napoli Federico II']
+Text: Ringraziamenti Questo lavoro è stato finanziato dalla Agence Nationale de la Recherche a Caterina Petrone per il progetto "Rappresentazione e pianificazione di prosodia" (ANR-14-CE30-0005-01). Si ringrazia inoltre l'Università degli Studi di Napoli Federico II per aver permesso, con i programmi Erasmus Placement, la realizzazione dei progetti di studio di Giovanna De Bellis e di Simona Schiattarella. Ringraziamenti vanno a Celine De Looze per la realizzazione degli script in PRAAT che hanno consentito di estrarre le informazioni relative alla caratteristiche temporali delle interazioni conversazionali dei dialoghi presi in esame. Un ringraziamento particolare infine va alla Prof. ssa Francesca M.
+
+----

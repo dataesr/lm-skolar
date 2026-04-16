@@ -26,7 +26,7 @@
         ]
       }
     ],
-    "infrastructures": [],
+    "infrastructure": [],
     "persons_thanked": [
       {
         "name": "Brigitte Geissel",
@@ -79,7 +79,7 @@
         ]
       }
     ],
-    "infrastructures": [],
+    "infrastructure": [],
     "persons_thanked": [],
     "private_companies": []
   },
@@ -89,7 +89,7 @@
     "funders": [
       {
         "mention": "Bundesministeriums f\u00fcr Bildung und Forschung",
-        "canonical_name": "Bundesministeriums f\u00fcr Bildung und Forschung",
+        "canonical_name": "Bundesministerium f\u00fcr Bildung und Forschung",
         "funder_short": "BMBF",
         "country": "DE",
         "grant_ids": [],
@@ -127,7 +127,7 @@
         ]
       }
     ],
-    "infrastructures": [],
+    "infrastructure": [],
     "persons_thanked": [],
     "private_companies": []
   },
@@ -151,13 +151,14 @@
     "projects": [
       {
         "mention": "ANR  project  DAGDigDec (JCJC )  ANR-21-CE48-0012",
+        "name": "DAGDigDec",
         "funders": [
           "Agence Nationale de la Recherche"
         ],
         "grant_id": "ANR-21-CE48-0012"
       }
     ],
-    "infrastructures": [],
+    "infrastructure": [],
     "persons_thanked": [],
     "private_companies": []
   },
@@ -184,7 +185,7 @@
         "name": "GEM Flagship"
       }
     ],
-    "infrastructures": [],
+    "infrastructure": [],
     "persons_thanked": [],
     "private_companies": []
   },
@@ -215,6 +216,7 @@
         ]
       }
     ],
+    "infrastructure": [],
     "private_companies": [
       {
         "mention": "Huawei Technologies",
@@ -241,7 +243,7 @@
       },
       {
         "mention": "EDF",
-        "canonical_name": "Electricit\u00e9 de France",
+        "canonical_name": "Électricit\u00e9 de France",
         "funder_short": "EDF",
         "country": "FR",
         "grant_ids": [
@@ -263,7 +265,7 @@
         "grant_id": "749/2014"
       }
     ],
-    "infrastructures": [
+    "infrastructure": [
       {
         "mention": "Computational facilities",
         "name": "Computational facilities",
@@ -273,7 +275,7 @@
     "private_companies": [
       {
         "mention": "EDF",
-        "name": "Electricit\u00e9 de France",
+        "name": "Électricit\u00e9 de France",
         "role": [
           "funding",
           "computational_facility"
@@ -342,7 +344,7 @@
         "grant_id": "101019751"
       }
     ],
-    "infrastructures": [
+    "infrastructure": [
       {
         "mention": "ALMA",
         "name": "Atacama Large Millimeter/submillimeter Array",
@@ -358,7 +360,8 @@
         "name": "National Radio Astronomy Observatory",
         "type": "astronomical_observatory"
       }
-    ]
+    ],
+    "private_companies": []
   },
   {
     "text": "AGRADECIMIENTOS Al CODI de la Universidad de Antioquia por la financiaci\u00f3n a trav\u00e9s del proyecto PRG14-1-07, de la estrategia de sostenibilidad 2014-2015 y de la beca joven investigador CODI y a Colciencias por la beca Joven Investigador e Innovador 2014.",
@@ -366,7 +369,7 @@
     "funders": [
       {
         "mention": "CODI de la Universidad de Antioquia",
-        "canonical_name": "Comit\u00e9 para el Desarrollo de la Investigaci\u00f3n - Universidad de Antioquia",
+        "canonical_name": "Universidad de Antioquia",
         "funder_short": "CODI",
         "country": "CO",
         "grant_ids": [
@@ -379,7 +382,7 @@
       },
       {
         "mention": "Colciencias",
-        "canonical_name": "Departamento Administrativo de Ciencia, Tecnolog\u00eda e Innovaci\u00f3n",
+        "canonical_name": "Colciencias",
         "funder_short": "Colciencias",
         "country": "CO",
         "grant_ids": [],
@@ -391,12 +394,15 @@
     "projects": [
       {
         "mention": "proyecto PRG14-1-07",
+        "name": "PRG14-1-07",
         "funders": [
           "CODI"
         ],
         "grant_id": "PRG14-1-07"
       }
-    ]
+    ],
+    "infrastructure": [],
+    "private_companies": []
   },
   {
     "text": "Acknowledgements This work was done during the BioHackathon Europe 2020 organized by  ELIXIR  in November 2020. We thank the organizers and fellow participants. DSW development is supported by  ELIXIR CZ research infrastructure  project ( MEYS  Grant No:  LM2015047 ) and  ELIXIR CONVERGE  ( Horizon 2020 ).",
@@ -404,7 +410,7 @@
     "funders": [
       {
         "mention": "MEYS Grant No: LM2015047",
-        "canonical_name": "Ministry of Education, Youth and Sports",
+        "canonical_name": "Ministry of Education, Youth and Sports of the Czech Republic",
         "funder_short": "MEYS",
         "country": "Czech Republic",
         "grant_ids": [
@@ -426,9 +432,9 @@
     "projects": [
       {
         "mention": "ELIXIR CZ research infrastructure project (MEYS Grant No: LM2015047)",
-        "name": "ELIXIR CZ research infrastructure project",
+        "name": "ELIXIR CZ research infrastructure",
         "funders": [
-          "Ministry of Education, Youth and Sports"
+          "Ministry of Education, Youth and Sports of the Czech Republic"
         ],
         "grant_id": "LM2015047"
       },
@@ -439,9 +445,13 @@
           "European Commission"
         ],
         "grant_id": null
+      },
+      {
+        "mention": "BioHackathon Europe 2020",
+        "name": "BioHackathon Europe 2020"
       }
     ],
-    "infrastructures": [
+    "infrastructure": [
       {
         "mention": "ELIXIR CZ research infrastructure",
         "name": "ELIXIR Czech Republic Node",
@@ -452,7 +462,8 @@
         "name": "ELIXIR",
         "type": "distributed_research_infrastructure"
       }
-    ]
+    ],
+    "private_companies": []
   },
   {
     "text": "Acknowledgments We would like to thank  Germinal Rouhan  for granting us access to the Passifloraceae collections at the  Paris Herbarium , as well as  Myriam Gaudeul  for allowing us to collect the seeds for this study. We also extend our gratitude to  Vincent Rommevaux  for preparing the thin sections of the seeds and  Olivier Bethoux  for providing the camera and camera lens. We would also like to thank the reviewers,  Elizabeth Hermsen  and  Steven Manchester , for their great improvements to the article, and the editor,  Marie-B\u00e9atrice Forel . This study benefited from the Hirox RH-2000 equipment funded by the  DIM PAMIR  ( MIRCoV  project).",
@@ -460,7 +471,7 @@
     "funders": [
       {
         "mention": "DIM PAMIR (MIRCoV project)",
-        "canonical_name": "R\u00e9gion Ile-de-France",
+        "canonical_name": "R\u00e9gion Île-de-France",
         "funder_short": "R\u00e9gion IdF",
         "country": "FR",
         "grant_ids": [],
@@ -474,19 +485,19 @@
         "mention": "MIRCoV project",
         "name": "MIRCoV",
         "funders": [
-          "R\u00e9gion Ile-de-France"
+          "R\u00e9gion Île-de-France"
         ]
       }
     ],
-    "infrastructures": [
+    "infrastructure": [
       {
         "mention": "Paris Herbarium",
-        "name": "Herbier de Paris",
+        "name": "Paris Herbarium",
         "type": "research_collection"
       },
       {
         "mention": "Hirox RH-2000 equipment",
-        "name": "Hirox RH-2000",
+        "name": "RH-2000",
         "type": "scientific_instrument"
       }
     ],
@@ -519,7 +530,8 @@
         "name": "Marie-B\u00e9atrice Forel",
         "role": "editor"
       }
-    ]
+    ],
+    "private_companies": []
   },
   {
     "text": "VI. ACKNOWLEDGMENTS The authors gratefully acknowledge the AGATA collaboration for the availability of the AGATA \u03b3 tracking array at GANIL.We would like to thank the GANIL accelerator staff for their technical contributions.We thank  A. O. Macchiavelli  for help in data collection during the experiment.SB, SB and RB acknowledge the support received from  CEFIPRA  project No.  5604-4  and SB, RP acknowledge the support from  LIA France-India  agreement.PB and AM acknowledge support from the  Polish National Science Centre (NCN)  under Contract No.  2016/22/M/ST2/00269  and the  French LEA COPI- GAL  project.HLC and PF acknowledge support from the  U.S. Department of Energy, Office of Science, Office of Nuclear Physics  under Contract No.  DE-AC02-05CH11231  (LBNL).RMPV acknowledge partial support by  Ministry of Science, Spain , under the grants  BES-2012-061407 ,  SEV-2014-0398 ,  FPA2017-84756-C4  and by  EU FEDER  funds.",
@@ -637,7 +649,7 @@
         "funders": []
       }
     ],
-    "infrastructures": [
+    "infrastructure": [
       {
         "mention": "AGATA \u03b3 tracking array",
         "name": "AGATA gamma tracking array",
@@ -659,7 +671,8 @@
         "name": "A. O. Macchiavelli",
         "role": "data collection support"
       }
-    ]
+    ],
+    "private_companies": []
   },
   {
     "text": "We thank the anonymous referee for their careful review and suggestions to improve the contents of this manuscript. We are grateful to  Akihiko Hirota  for sharing their calibrated ALMA CO emission map. This work is based on observations made with the  NASA/ESA/CSA JWST . Support for program  JWST-GO-02291  was provided by  NASA  through a grant from the  Space Telescope Science Institute , which is operated by the  Associations of Universities for Research in Astronomy, Incorporated , under  NASA  contract  NAS 5-26555 . This work is based on observations made with the  NASA/ESA /CSA JWST. The data were obtained from the  Mikulski Archive for Space Telescopes  at the  Space Telescope Science Institute , which is operated by the  Association of Universities for Research in Astronomy, Inc ., under  NASA  contract  NAS 5-03127  for JWST. These observations are associated with program #02219. Facility: JWST(MIRI). Software: dust_extinction (Gordon et al. 2021).",
@@ -692,7 +705,7 @@
         "grant_id": "NAS 5-03127"
       }
     ],
-    "infrastructures": [
+    "infrastructure": [
       {
         "mention": "NASA/ESA/CSA JWST",
         "name": "James Webb Space Telescope",
@@ -724,7 +737,8 @@
         "name": "Akihiko Hirota",
         "role": "data provision (ALMA map)"
       }
-    ]
+    ],
+    "private_companies": []
   },
   {
     "text": "Acknowledgments The authors gratefully acknowledge the support of the  United States National Science Foundation  for the construction and operation of the  LIGO Laboratory , the  Science and Technology Facilities Council of the United Kingdom , the  Max-Planck-Society , and the  State of Niedersachsen/Germany  for support of the construction and operation of the GEO600 detector, and the  Italian Istituto Nazionale di Fisica Nucleare  and the  French Centre National de la Recherche Scientifique  for the construction and operation of the Virgo detector.The authors also gratefully acknowledge the support of the research by these agencies and by the  Australian Research Council , the  International Science Linkages program of the Commonwealth of Australia , the  Council of Scientific and Industrial Research of India , the  Istituto Nazionale di Fisica Nucleare of Italy , the  Spanish Ministerio de Econom\u00eda y Competitividad , the  Conselleria d'Economia Hisenda i Innovaci\u00f3 of the Govern de les Illes Balears , the  Foundation for Fundamental Research on Matter  supported by the  Netherlands Organisation for Scientific Research , the  Polish Ministry of Science and Higher Education , the  FOCUS Programme of Foundation for Polish Science , the  Royal Society , the  Scottish Funding Council , the  Scottish Universities Physics Alliance , The  National Aeronautics and Space Administration , the  National Research Foundation of Korea, Industry Canada  and the  Province of Ontario  through the  Ministry of Economic Development and Innovation , the  National Science and Engineering Research Council Canada , the  Carnegie Trust , the  Leverhulme Trust , the  David and Lucile Packard Foundation , the  Research Corporation , and the  Alfred P. Sloan Foundation .This paper has been assigned LIGO Document Number ligo-p1200135 and Virgo TDS number  VIR-0379C-12 ",
@@ -893,7 +907,7 @@
       }
     ],
     "projects": [],
-    "infrastructures": [
+    "infrastructure": [
       {
         "mention": "LIGO Laboratory",
         "name": "Laser Interferometer Gravitational-Wave Observatory",
@@ -910,38 +924,8 @@
         "type": "gravitational_wave_detector"
       }
     ],
-    "persons": []
-  },
-  {
-    "text": "ACKNOWLEDGMENT This work is carried out within SIVALab, a shared laboratory between Renault and  Heudiasyc (UTC/CNRS) , and cofinanced by the  Hauts-de-France region  ( ERDF grant ) and Renault.",
-    "publication_id": "doi10.1109/icra.2019.8794270",
-    "funders": [
-      {
-        "mention": "Hauts-de-France region (ERDF grant)",
-        "canonical_name": "R\u00e9gion Hauts-de-France",
-        "country": "FR",
-        "programs": [
-          "European Regional Development Fund",
-          "ERDF",
-          "FEDER"
-        ]
-      },
-      {
-        "mention": "Renault",
-        "canonical_name": "Renault",
-        "country": "France"
-      }
-    ],
-    "projects": [],
-    "infrastructures": [],
     "persons": [],
-    "private_companies": [
-      {
-        "mention": "Renault",
-        "name": "Renault",
-        "role": "industrial partner / co-funder"
-      }
-    ]
+    "private_companies": []
   },
   {
     "text": "ACKNOWLEDGMENT This work is carried out within SIVALab, a shared laboratory between Renault and  Heudiasyc (UTC/CNRS) , and cofinanced by the  Hauts-de-France region  ( ERDF grant ) and Renault.",
@@ -964,7 +948,7 @@
       }
     ],
     "projects": [],
-    "infrastructures": [],
+    "infrastructure": [],
     "persons": [],
     "private_companies": [
       {
@@ -979,7 +963,7 @@
     "publication_id": "doi10.1038/s41467-020-20657-4",
     "funders": [],
     "projects": [],
-    "infrastructures": [
+    "infrastructure": [
       {
         "mention": "HPC resources of IDRIS (Jean Zay)",
         "name": "Jean Zay supercomputer",
@@ -1073,13 +1057,14 @@
     "projects": [
       {
         "mention": "projet ANR CoLoC (Confort des Logements Connect\u00e9s)",
-        "name": "CoLoC",
+        "name": "Confort des Logements Connectés",
         "funders": [
           "Agence Nationale de la Recherche"
         ]
       }
     ],
-    "infrastructures": [],
+    "infrastructure": [],
+    "private_companies": [],
     "persons": []
   },
   {
@@ -1116,7 +1101,7 @@
         "grant_id": "ANR-14-CE30-0005-01"
       }
     ],
-    "infrastructures": [],
+    "infrastructure": [],
     "persons": [
       {
         "name": "Caterina Petrone",
@@ -1137,7 +1122,8 @@
       {
         "name": "Francesca M."
       }
-    ]
+    ],
+    "private_companies": []
   },
   {
     "text": "Danksagung Diese Arbeit wurde von der Deutschen Forschungsgemeinschaft und der franz\u00f6sischen Nationalen Forschungsagentur unterst\u00fctzt. (DFG, Grants BU 1351/20-1, BU 1351/20-2, BU 1351/23-1 und ANR, Grant ANR-18-CE92-0018-01). Open Access Ver\u00f6ffentlichung erm\u00f6glicht und organisiert durch Projekt DEAL.",
@@ -1196,8 +1182,9 @@
         "grant_id": "ANR-18-CE92-0018-01"
       }
     ],
-    "infrastructures": [],
-    "persons": []
+    "infrastructure": [],
+    "persons": [],
+    "private_companies": []
   },
   {
     "text": "Acknowledgements Authors would like to thank the personnel in the U3EP test station for the collection of faecal samples.They also acknowledge  Nathalie Quiniou  ( IFIP-Institut du Porc ) and  Didier Gaudr\u00e9  ( IFIP-Institut du Porc ) for helpful comments and insightful discussions about results obtained in this study. \n Financial support statement Digestibility data analysed in this study were collected within the  Feed-A-Gene  project, funded through the  European Union 's  H2020 programme  under grant agreement  n\u00b0633531 .",
@@ -1227,7 +1214,7 @@
         "grant_id": "633531"
       }
     ],
-    "infrastructures": [
+    "infrastructure": [
       {
         "mention": "U3EP test station",
         "name": "U3EP test station",
