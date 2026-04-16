@@ -17,12 +17,6 @@ Prediction: ['ELIXIR', 'Ministry of Education, Youth and Sports of the Czech Rep
 Text: Acknowledgements This work was done during the BioHackathon Europe 2020 organized by  ELIXIR  in November 2020. We thank the organizers and fellow participants. DSW development is supported by  ELIXIR CZ research infrastructure  project ( MEYS  Grant No:  LM2015047 ) and  ELIXIR CONVERGE  ( Horizon 2020 ).
 
 ----
-FALSE funders canonical_name | European Commission detected as canonical_name of funders but should not
-Expected: ['Région Hauts-de-France', 'Renault']
-Prediction: ['European Commission', 'Région Hauts-de-France', 'Renault']
-Text: ACKNOWLEDGMENT This work is carried out within SIVALab, a shared laboratory between Renault and  Heudiasyc (UTC/CNRS) , and cofinanced by the  Hauts-de-France region  ( ERDF grant ) and Renault.
-
-----
 FALSE funders canonical_name | Grand Équipement National de Calcul Intensif detected as canonical_name of funders but should not
 Expected: []
 Prediction: ['Grand Équipement National de Calcul Intensif']

@@ -1,0 +1,35 @@
+MISSING projects grant_id | 62272023 not detected
+MISSING projects grant_id | 51991391 not detected
+MISSING projects grant_id | 51991395 not detected
+Expected: ['62272023', '51991391', '51991395']
+Prediction: []
+Text: This work was supported by the National Natural Science Foundation of China (62272023, 51991391, 51991395).
+
+----
+MISSING projects grant_id | 57387214 not detected
+MISSING projects grant_id | 812954 not detected
+Expected: ['57387214', '812954']
+Prediction: []
+Text: The research was supported in part by the DAAD funded by the Bundesministeriums für Bildung und Forschung (BMBF) (PPP USA 2018, 57387214) as well as the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement no. 812954.
+
+----
+MISSING projects grant_id | 749/2014 not detected
+Expected: ['749/2014']
+Prediction: []
+Text: Acknowledgments.This work has been partially funded by  ANRT  and  EDF  through an EDF-CIFRE contract  749/2014 .Computational facilities were provided by EDF.
+
+----
+MISSING projects grant_id | LM2015047 not detected
+Expected: ['LM2015047']
+Prediction: []
+Text: Acknowledgements This work was done during the BioHackathon Europe 2020 organized by  ELIXIR  in November 2020. We thank the organizers and fellow participants. DSW development is supported by  ELIXIR CZ research infrastructure  project ( MEYS  Grant No:  LM2015047 ) and  ELIXIR CONVERGE  ( Horizon 2020 ).
+
+----
+MISSING projects grant_id | BU 1351/20-2 not detected
+MISSING projects grant_id | BU 1351/23-1 not detected
+MISSING projects grant_id | ANR-18-CE92-0018-01 not detected
+Expected: ['BU 1351/20-1', 'BU 1351/20-2', 'BU 1351/23-1', 'ANR-18-CE92-0018-01']
+Prediction: ['BU 1351/20-1']
+Text: Danksagung Diese Arbeit wurde von der Deutschen Forschungsgemeinschaft und der französischen Nationalen Forschungsagentur unterstützt. (DFG, Grants BU 1351/20-1, BU 1351/20-2, BU 1351/23-1 und ANR, Grant ANR-18-CE92-0018-01). Open Access Veröffentlichung ermöglicht und organisiert durch Projekt DEAL.
+
+----
