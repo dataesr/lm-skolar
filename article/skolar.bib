@@ -1,0 +1,498 @@
+ss
+@misc{priem_openalex_2022,
+	title = {{OpenAlex}: {A} fully-open index of scholarly works, authors, venues, institutions, and concepts},
+	copyright = {Creative Commons Zero v1.0 Universal},
+	shorttitle = {{OpenAlex}},
+	url = {https://arxiv.org/abs/2205.01833},
+	doi = {10.48550/ARXIV.2205.01833},
+	abstract = {OpenAlex is a new, fully-open scientific knowledge graph (SKG), launched to replace the discontinued Microsoft Academic Graph (MAG). It contains metadata for 209M works (journal articles, books, etc); 2013M disambiguated authors; 124k venues (places that host works, such as journals and online repositories); 109k institutions; and 65k Wikidata concepts (linked to works via an automated hierarchical multi-tag classifier). The dataset is fully and freely available via a web-based GUI, a full data dump, and high-volume REST API. The resource is under active development and future work will improve accuracy and coverage of citation information and author/institution parsing and deduplication.},
+	urldate = {2026-08-21},
+	publisher = {arXiv},
+	author = {Priem, Jason and Piwowar, Heather and Orr, Richard},
+	year = {2022},
+	note = {Version Number: 2},
+	keywords = {Digital Libraries (cs.DL), FOS: Computer and information sciences},
+	annote = {Other
+Submitted to the 26th International Conference on Science, Technology and Innovation Indicators (STI 2022)},
+}
+
+@article{du_softcite_2021,
+	title = {Softcite dataset: {A} dataset of software mentions in biomedical and economic research publications},
+	volume = {72},
+	issn = {2330-1635, 2330-1643},
+	shorttitle = {Softcite dataset},
+	url = {https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24454},
+	doi = {10.1002/asi.24454},
+	abstract = {Abstract
+            Software contributions to academic research are relatively invisible, especially to the formalized scholarly reputation system based on bibliometrics. In this article, we introduce a gold‐standard dataset of software mentions from the manual annotation of 4,971 academic PDFs in biomedicine and economics. The dataset is intended to be used for automatic extraction of software mentions from PDF format research publications by supervised learning at scale. We provide a description of the dataset and an extended discussion of its creation process, including improved text conversion of academic PDFs. Finally, we reflect on our challenges and lessons learned during the dataset creation, in hope of encouraging more discussion about creating datasets for machine learning use.},
+	language = {en},
+	number = {7},
+	urldate = {2026-08-21},
+	journal = {Journal of the Association for Information Science and Technology},
+	author = {Du, Caifan and Cohoon, Johanna and Lopez, Patrice and Howison, James},
+	month = jul,
+	year = {2021},
+	pages = {870--884},
+}
+
+@article{pan_dmdd_2023,
+	title = {{DMDD}: {A} {Large}-{Scale} {Dataset} for {Dataset} {Mentions} {Detection}},
+	volume = {11},
+	issn = {2307-387X},
+	shorttitle = {{DMDD}},
+	url = {https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00592/117582/DMDD-A-Large-Scale-Dataset-for-Dataset-Mentions},
+	doi = {10.1162/tacl_a_00592},
+	abstract = {Abstract
+            The recognition of dataset names is a critical task for automatic information extraction in scientific literature, enabling researchers to understand and identify research opportunities. However, existing corpora for dataset mention detection are limited in size and naming diversity. In this paper, we introduce the Dataset Mentions Detection Dataset (DMDD), the largest publicly available corpus for this task. DMDD consists of the DMDD main corpus, comprising 31,219 scientific articles with over 449,000 dataset mentions weakly annotated in the format of in-text spans, and an evaluation set, which comprises 450 scientific articles manually annotated for evaluation purposes. We use DMDD to establish baseline performance for dataset mention detection and linking. By analyzing the performance of various models on DMDD, we are able to identify open problems in dataset mention detection. We invite the community to use our dataset as a challenge to develop novel dataset mention detection models.},
+	language = {en},
+	urldate = {2026-08-21},
+	journal = {Transactions of the Association for Computational Linguistics},
+	author = {Pan, Huitong and Zhang, Qi and Dragut, Eduard and Caragea, Cornelia and Latecki, Longin Jan},
+	month = sep,
+	year = {2023},
+	pages = {1132--1146},
+}
+
+@misc{datacite_data_2025,
+	title = {Data {Citation} {Corpus} {Data} {File}},
+	copyright = {Creative Commons Zero v1.0 Universal},
+	url = {https://zenodo.org/doi/10.5281/zenodo.14897662},
+	doi = {10.5281/ZENODO.14897662},
+	abstract = {Data file for the third release of the Data Citation Corpus, produced by DataCite and Make Data Count as part of an ongoing grant project funded by the Wellcome Trust. Read more about the project.
+
+The data file includes 5,322,388 data citation records in JSON and CSV formats. The JSON file is the version of record.
+
+For convenience, the data is provided in batches of approximately 1 million records each. The publication date and batch number are included in the file name, ex: 2025-02-01-data-citation-corpus-01-v3.0.json.
+
+The data citations in the file originate from the following sources:
+
+
+
+DataCite Event Data
+
+A project by Chan Zuckerberg Initiative (CZI) to identify mentions to datasets in the full text of articles
+
+Data citations identified Aligning Science Across Parkinson’s (ASAP)
+
+
+Each data citation record is comprised of:
+
+
+
+
+
+A pair of identifiers: An identifier for the dataset (a DOI or an accession number) and the DOI of the publication (journal article or preprint) in which the dataset is cited  
+
+
+
+
+Metadata for the cited dataset and for the citing publication 
+
+
+
+The data file includes the following fields:
+
+
+
+
+
+
+
+
+Field
+
+
+
+Description
+
+
+
+Required?
+
+
+
+
+
+id
+
+
+
+Internal identifier for the citation
+
+
+
+Yes
+
+
+
+
+
+created
+
+
+
+Date of item's incorporation into the corpus
+
+
+
+Yes
+
+
+
+
+
+updated
+
+
+
+Date of item's most recent update in corpus
+
+
+
+Yes
+
+
+
+
+
+repository
+
+
+
+Repository where cited data is stored
+
+
+
+No
+
+
+
+
+
+publisher
+
+
+
+Publisher for the article citing the data
+
+
+
+No
+
+
+
+
+
+journal
+
+
+
+Journal for the article citing the data
+
+
+
+No
+
+
+
+
+
+title
+
+
+
+Title of cited data
+
+
+
+No
+
+
+
+
+
+publication
+
+
+
+DOI of article where data is cited
+
+
+
+Yes
+
+
+
+
+
+dataset
+
+
+
+DOI or accession number of cited data
+
+
+
+Yes
+
+
+
+
+
+publishedDate
+
+
+
+Date when citing article was published
+
+
+
+No
+
+
+
+
+
+source
+
+
+
+Source where citation was harvested
+
+
+
+Yes
+
+
+
+
+
+subjects
+
+
+
+Subject information for cited data
+
+
+
+No
+
+
+
+
+
+affiliations
+
+
+
+Affiliation information for creator of cited data
+
+
+
+No
+
+
+
+
+
+funders
+
+
+
+Funding information for cited data
+
+
+
+No
+
+
+
+
+
+
+ 
+
+Additional documentation about the citations and metadata in the file is available on the Make Data Count website. 
+
+Notes on v3.0:
+
+The third release of the Data Citation Corpus data file reflects a few changes made to add new citations, including those from a new data source (ASAP), update and enhance citation metadata, and improve the overall usability of the file. These changes are as follows:
+
+Add and update Event Data citations:
+
+
+
+
+
+Add 65,524 new data citations created in DataCite Event Data between August 2024 and December 2024
+
+
+
+Add ASAP citations:
+
+
+
+
+
+Add 750 new data citations provided by Aligning Science Across Parkinson’s (ASAP), identified through processes to evaluate compliance with ASAP’s for open science practices, which involve a partnership with DataSeer and internal curation (described here).
+
+
+
+
+Citations with provenance from ASAP are identified as “asap” in the source field
+
+
+
+Metadata enhancements:
+
+
+
+Reconcile and normalize organization names for affiliations and funders in a subset of records with the Research Organization Registry (ROR)
+
+
+
+Add ror\_name and ror\_id subfields for affiliations and funders in JSON files. Unreconciled affiliation and funder strings are identified with values of null
+
+Add new columns affiliationsROR and fundersROR in CSV files. Unreconciled affiliation and funder strings are identified with values of NONE NONE (this is to ensure consistency in number and order of values in cases where some strings have been reconciled and others have not)
+
+
+
+Normalize DOI formats for articles and papers as full URLs
+
+
+Additional details about the above changes, including scripts used to perform the above tasks, are available in GitHub. 
+
+Additional enhancements to the corpus are ongoing and will be addressed in the course of subsequent releases. Users are invited to submit feedback via GitHub. For general questions, email info@makedatacount.org.},
+	urldate = {2026-08-21},
+	publisher = {DataCite},
+	author = {{DataCite} and {Make Data Count}},
+	month = feb,
+	year = {2025},
+	keywords = {open data, data citation, data metrics, data usage, datacite, make data count, open infrastructure, research data, research evaluation},
+}
+
+@article{smirnova_embedding_2024,
+	title = {Embedding models for supervised automatic extraction and classification of named entities in scientific acknowledgements},
+	volume = {129},
+	issn = {0138-9130, 1588-2861},
+	url = {https://link.springer.com/10.1007/s11192-023-04806-2},
+	doi = {10.1007/s11192-023-04806-2},
+	abstract = {Abstract
+            Acknowledgments in scientific papers may give an insight into aspects of the scientific community, such as reward systems, collaboration patterns, and hidden research trends. The aim of the paper is to evaluate the performance of different embedding models for the task of automatic extraction and classification of acknowledged entities from the acknowledgment text in scientific papers. We trained and implemented a named entity recognition (NER) task using the flair NLP framework. The training was conducted using three default Flair NER models with four differently-sized corpora and different versions of the flair NLP framework. The Flair Embeddings model trained on the medium corpus with the latest FLAIR version showed the best accuracy of 0.79. Expanding the size of a training corpus from very small to medium size massively increased the accuracy of all training algorithms, but further expansion of the training corpus did not bring further improvement. Moreover, the performance of the model slightly deteriorated. Our model is able to recognize six entity types: funding agency, grant number, individuals, university, corporation, and miscellaneous. The model works more precisely for some entity types than for others; thus, individuals and grant numbers showed a very good F1-Score over 0.9. Most of the previous works on acknowledgment analysis were limited by the manual evaluation of data and therefore by the amount of processed data. This model can be applied for the comprehensive analysis of acknowledgment texts and may potentially make a great contribution to the field of automated acknowledgment analysis.},
+	language = {en},
+	number = {11},
+	urldate = {2026-08-21},
+	journal = {Scientometrics},
+	author = {Smirnova, Nina and Mayr, Philipp},
+	month = nov,
+	year = {2024},
+	pages = {7261--7285},
+	file = {Texte intégral:/Users/eric/Zotero/storage/835PRWCN/Smirnova et Mayr - 2024 - Embedding models for supervised automatic extracti.pdf:application/pdf},
+  insights = {Methodology
+
+Objective: to evaluate different embedding models for the automatic extraction and classification of entities mentioned in the acknowledgement sections of scientific papers.
+
+Technical framework: the authors use the open-source NLP framework Flair to train a named entity recognition (NER) task. They test three default Flair models:
+
+Flair Embeddings (stacked contextual string embeddings + GloVe)
+Transformers (fine-tuning of RoBERTa, FLERT extension)
+TARS (zero-shot and few-shot approach)
+
+Six entity types to recognize: funding agency (FUND), grant number (GRNB), individuals (IND), university (UNI), corporation (COR), and miscellaneous (MISC).
+
+The model does only the classification (one of the six types), but not the entiry extraction.
+
+Training data: harvested from Web of Science (funding acknowledgements, 2014–2019, across several domains: oceanography, economics, social sciences, computer science). Four corpora of increasing size were built (from 49 to ~1,463 sentences). Annotation was semi-automated: a pre-trained Flair model (CoNLL-03) provided a starting point, supplemented by WoS indexing and regular expressions, then manually reviewed.
+
+Three experiments:
+
+Comparison of the three models on corpus No.1 (very small) and No.2 (medium)
+Altered parameters and reduced number of classes (merging FUND/COR/UNI into "ORG", excluding MISC, combining Flair+RoBERTa)
+Replication with larger corpora (No.3 and No.4) and a newer Flair version (0.11)
+Key Insights
+
+Best model: Flair Embeddings trained on the medium corpus (No.2) with Flair 0.11 achieves the best overall accuracy (0.79). It is also the fastest, which is why it is recommended.
+
+Effect of corpus size: moving from a very small corpus (49 sentences) to a medium one (654 sentences) massively improved accuracy across all algorithms. However, enlarging the corpus further brought no gains — performance even slightly deteriorated.
+
+Highly uneven performance across entity types:
+
+IND (individuals) and GRNB (grant numbers) are recognized very well, with F1-scores above 0.9 (up to 0.98 for IND). These entities have low-variety patterns and appear in limited contexts.
+FUND, UNI, COR, and MISC remain difficult. The authors attribute this to their semantic proximity (even a human annotator struggles to distinguish a university from a funding body without background knowledge) and to the small number of examples in certain categories (COR in particular).
+
+Few-shot/zero-shot approaches (TARS): able to extract individuals with good precision (F1 of 0.86 with no training data at all), but very weak on other categories. They cannot identify all the defined entity classes.
+
+The bottleneck is classification, not extraction: many entities are correctly extracted but assigned to the wrong category. An additional classification algorithm applied to the extracted entities could therefore improve results.
+
+Acknowledged limitations: the small scale of the study, a single annotator, and biased WoS data (which only contains acknowledgements with funding information, hence few universities, corporations, or individuals).},
+}
+
+@article{mayernik_assessing_2017,
+	title = {Assessing and tracing the outcomes and impact of research infrastructures},
+	volume = {68},
+	copyright = {http://creativecommons.org/licenses/by-nc/4.0/},
+	issn = {2330-1635, 2330-1643},
+	url = {https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.23721},
+	doi = {10.1002/asi.23721},
+	abstract = {Recent policy shifts on the part of funding agencies and journal publishers are causing changes in the acknowledgment and citation behaviors of scholars. A growing emphasis on open science and reproducibility is changing how authors cite and acknowledge “research infrastructures”—entities that are used as inputs to or as underlying foundations for scholarly research, including data sets, software packages, computational models, observational platforms, and computing facilities. At the same time, stakeholder interest in quantitative understanding of impact is spurring increased collection and analysis of metrics related to use of research infrastructures. This article reviews work spanning several decades on tracing and assessing the outcomes and impacts from these kinds of research infrastructures. We discuss how research infrastructures are identified and referenced by scholars in the research literature and how those references are being collected and analyzed for the purposes of evaluating impact. Synthesizing common features of a wide range of studies, we identify notable challenges that impede the analysis of impact metrics for research infrastructures and outline key open research questions that can guide future research and applications related to such metrics.},
+	language = {en},
+	number = {6},
+	urldate = {2026-08-21},
+	journal = {Journal of the Association for Information Science and Technology},
+	author = {Mayernik, Matthew S. and Hart, David L. and Maull, Keith E. and Weber, Nicholas M.},
+	month = jun,
+	year = {2017},
+	pages = {1341--1359},
+  insights = {Methods for Detecting Research Infrastructures: Summary
+Detection Methodologies
+
+The article by Mayernik et al. (2017) identifies several approaches used to trace references to research infrastructures (datasets, software, platforms, and facilities) in the scholarly literature.
+
+Manual methods. Early and small-scale studies relied on manually searching multiple tools (Web of Science, Google Scholar, PubMed, literature databases) to compile publications that cite or mention a given resource. Detection typically depended on spotting repository or dataset names in article abstracts, bibliographic metadata, or full text. These methods produce useful case studies but are time-consuming, require multiple tools, and do not scale.
+
+Computational and text-mining methods. To overcome scaling limits, researchers developed automated approaches: mining data-related URLs (Pepe et al., 2014, in astronomy), Perl scripts parsing metadata records and querying Google Scholar (Chao, 2011, on NASA's GCMD), and linguistic/pattern-induction algorithms that use the textual context around a dataset "seed string" to recognize genuine mentions (Boland et al., 2012). In biomedicine, support vector machines and sentence-classification algorithms extracted data-deposition statements from PubMed Central (Neveol et al., 2011), and text-mining pipelines detected direct citations to database accession numbers.
+
+Acknowledgment analysis. Because infrastructure references often appear in methods or acknowledgments sections rather than reference lists, some work adapted acknowledgment-extraction techniques (Giles Councill, 2004; Thomer -  Weber, 2014) using manual or semi-automated methods.
+
+Superset assembly. For large facilities (e.g., HPC centers, telescopes), studies compiled publications from known users or project leads regardless of whether a direct usage link exists—Wang et al.'s (2014) "mashup" of 142,000 XSEDE-related publications is an example. Self-reporting (surveys, mailing lists, allocation requests) is also common.
+
+Telescope/observatory bibliographies. A well-established procedure in astronomy compiles bibliographies of all articles derived from a given facility, often using instrument-keyword searches and manual verification (e.g., the FUSE tool; IAU best-practice guidelines).
+
+Proxy metrics. When citation-based detection fails, indirect measures—download counts, web-access statistics, supercomputer/telescope allocation time, and usage logs—serve as proxies for impact.
+
+Principal Insights
+
+The central problem is that referencing behavior is extremely inconsistent. Infrastructure references appear unpredictably in full text, methods, or acknowledgments rather than in formal reference lists, and wording varies widely from recommended citations. Authors also blur the distinction between citing a resource and citing its provider.
+
+Studies converge on a few key findings: citation counts systematically underestimate true impact (proxy metrics like unique visitors ran 10–30× higher than citations in Jonkers et al., 2014); and smaller allocations of facility/observing time tend to yield proportionally more publications, a recurring result across HPC and telescope studies.
+
+Methodologically, tools are almost always custom-built and rarely shared, preventing comparative analysis. There is a lack of consistent, equivalent metrics across infrastructure types, and productivity/impact measures rely almost entirely on formally published, indexed outputs—missing educational, policy, and patent uses.},
+}
+
+@misc{bracco_how_2025,
+	title = {How to build an {Open} {Science} {Monitor} based on publications? {A} {French} perspective},
+	copyright = {Creative Commons Attribution 4.0 International},
+	shorttitle = {How to build an {Open} {Science} {Monitor} based on publications?},
+	url = {https://arxiv.org/abs/2501.02856},
+	doi = {10.48550/ARXIV.2501.02856},
+	abstract = {Many countries and institutions are striving to develop tools to monitor their open science policies. Since 2018, with the launch of its National Plan for Open Science, France has been progressively implementing a monitoring framework for its public policy, relying exclusively on reliable, open, and controlled data. Currently, this monitoring focuses on research outputs, particularly publications, as well as theses and clinical trials. Publications serve as a basis for analyzing other dimensions, including research data, code, and software. The metadata associated with publications is therefore particularly valuable, but the methodology for leveraging it raises several challenges. Here, we briefly outline how we have used this metadata to construct the French Open Science Monitor.},
+	urldate = {2026-08-21},
+	publisher = {arXiv},
+	author = {Bracco, Laetitia and Jeangirard, Eric and L'Hôte, Anne and Romary, Laurent},
+	year = {2025},
+	note = {Version Number: 1},
+	keywords = {Digital Libraries (cs.DL), FOS: Computer and information sciences},
+}
+
+@unpublished{bassinet:hal-04121339,
+  TITLE = {{Large-scale Machine-Learning analysis of scientific PDF for monitoring the production and the openness of research data and software in France}},
+  AUTHOR = {Bassinet, Aricia and Bracco, Laetitia and L'H{\^o}te, Anne and Jeangirard, Eric and Lopez, Patrice and Romary, Laurent},
+  URL = {https://hal.science/hal-04121339},
+  NOTE = {working paper or preprint},
+  YEAR = {2023},
+  abstract={There is today no standard way to reference research datasets and software in scientific communication. Emerging editorial workflows and supporting infrastructures dedicated to research datasets and software are still poorly adopted in current publishing practices and are highly fragmented. To better follow the production of research datasets and software, we present a text mining method applied to scientific publications at scale and implemented at the French national level. Our approach relies on state-of-the-art Machine Learning and document engineering techniques to ensure reliable accuracy across multiple research areas and document types. The annotations produced by our system are used by the French Open Science Monitor (BSO) platform to follow the production and the openness of research datasets and software, in the context of the second National Plan for Open Science. The source code and the data of the French Open Science Monitor, as well as all the associated tools and training data, are all available under open licences.},
+  KEYWORDS = {research data ; research software ; open access ; open science ; scientometrics},
+  PDF = {https://hal.science/hal-04121339v3/file/BSO3_preprint_20230625.pdf},
+  HAL_ID = {hal-04121339},
+  HAL_VERSION = {v3},
+}
