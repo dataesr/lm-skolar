@@ -1,0 +1,1651 @@
+wikidata,name,count
+Q169478,Matlab,20132
+Q181596,Spss,14100
+Q2003932,Sas,11320
+Q5597066,Graphpad prism,11037
+Q1659584,Imagej,9927
+Q11272,Excel,8013
+Q1204300,Stata,7067
+Q187432,scripts,3641
+Q1788435,Statistica,3240
+Q14579,Linux,3076
+Q606550,Simulink,1978
+Q5462055,Flowjo,1884
+Q4798119,Rstudio,1533
+Q494817,Google scholar,1531
+Q513297,Arcgis,1473
+Q746261,Labview,1437
+Q81294,Mathematica,1384
+Q7602967,Statview,1341
+Q326489,Ggplot,1328
+Q1344256,Ensembl,1263
+Q94,Android,1223
+Q2372381,Cplex,1219
+Q1373457,Pymol,1197
+Q286820,Blastn,1123
+Q1406,Windows,1085
+Q4049465,Sigmaplot,1066
+Q866737,Clustalw,995
+Q197492,Scipy,961
+Q6714151,Mafft,944
+Q4272521,Medcalc,922
+Q129793,Photoshop,910
+Q2888953,Bioconductor,890
+Q6719088,Muscle,864
+Q1026367,Scikit-learn,825
+Q47509047,Pytorch,823
+Q1329181,Qgis,801
+Q3699942,Cytoscape,795
+Q364,Github,781
+Q1024008,Comsol multiphysics,701
+Q18359288,Plink,677
+Q4915084,Geneious,655
+Q6955723,Nvivo,642
+Q21447895,Tensorflow,639
+Q197520,Numpy,635
+Q95,Google,614
+Q5204342,David,596
+Q7388648,Samtools,580
+Q82268,Eclipse,580
+Q42274,Google earth,577
+Q850,Mysql,560
+Q1412851,Geant4,540
+Q40984,Skype,538
+Q295774,Ansys,535
+Q728658,Abaqus,533
+Q1471909,Minitab,505
+Q2363545,Freesurfer,497
+Q905302,Gromacs,495
+Q165277,Opencv,493
+Q1172038,Abaqus,480
+Q7512231,Sigmastat,460
+Q2985668,Matplotlib,455
+Q16335221,Bowtie2,454
+Q1307239,Originpro,448
+Q828742,Scilab,438
+Q936,Openstreetmap,424
+Q28470421,Keras,397
+Q28865,Python,359
+Q12013,Google maps,358
+Q11354,Apache,349
+Q192490,Postgresql,339
+Q4042577,Lammps,334
+Q215016,Illustrator,331
+Q11215,Windows 7,327
+Q25052508,Igraph,322
+Q18411871,G*power,321
+Q1972504,Openfoam,318
+Q48493,Ios,317
+Q4784993,Arcmap,314
+Q3859815,Modeller,313
+Q16335200,Spades,305
+Q173136,Blender,304
+Q381,Ubuntu,301
+Q25099639,Mothur,289
+Q5631078,Hmmer,287
+Q5382673,Epidata,286
+Q29120,Hadoop,282
+Q23793561,Xgboost,281
+Q496579,Openmp,281
+Q18168774,Windows 10,280
+Q127879,Mpi,277
+Q6954915,Nonmem,277
+Q48968003,Masslynx,274
+Q1340244,Endnote,268
+Q4914637,Bionumerics,264
+Q1861162,Topspin,261
+Q1301762,Osirix,260
+Q4829059,Avizo,259
+Q26229866,Jasp,256
+Q21850561,Tophat,253
+Q477690,Cuda,252
+Q80689,Access,252
+Q385325,Modelica,249
+Q7864121,Ucsf chimera,249
+Q17064545,Libsvm,240
+Q115494,Weka,239
+Q3497316,Statgraphics,237
+Q165194,Api,230
+Q1557903,Gwyddion,227
+Q7837628,Iq-tree,226
+Q54871,Sparql,224
+Q13574543,Igor pro,223
+Q7243393,Primer,216
+Q7305527,Redcap,216
+Q2384813,Trnsys,213
+Q22908588,Geant4,211
+Q5499643,Freefem++,211
+Q901177,Gaussian,208
+Q104854189,Dplyr,207
+Q182477,Nvidia,207
+Q7573619,Spark,207
+Q17029600,I-tasser,200
+Q117882,Systat,199
+Q3109412,Gmsh,192
+Q60755534,Tidyverse,190
+Q672307,Netlogo,190
+Q1044749,Idl,189
+Q378530,Praat,189
+Q178570,Opengl,183
+Q7118292,Paup,183
+Q902642,Charmm,183
+Q23581023,Hysplit,180
+Q751281,Solidworks,179
+Q11463,Adobe,175
+Q11255,Office,170
+Q2007729,Omnet++,167
+Q2351962,Raster,167
+Q11261,Word,165
+Q7243405,Primer3,165
+Q2601695,Epi info,164
+Q6717040,Molpro,164
+Q206904,Cran,162
+Q251,Java,161
+Q5548660,Gephi,161
+Q18387989,Targetscan,157
+Q698,Firefox,156
+Q4826062,Autodock vina,154
+Q3628244,Atlas.ti,153
+Q47014869,Google forms,153
+Q14581,Darwin,152
+Q47607,Sql,152
+Q1882071,Mumps,150
+Q5530846,Genstat,150
+Q1658879,Pythia,146
+Q18215965,Psychtoolbox,146
+Q8041,Inkscape,145
+Q460584,Scala,144
+Q5058134,Cellprofiler,143
+Q5652128,Haploview,138
+Q3716878,Dymola,137
+Q1470293,Openstack,136
+Q393762,Masshunter,136
+Q642141,Lapack,136
+Q134067,Visual studio,135
+Q190434,Moodle,135
+Q258956,Splitstree,135
+Q6127008,Jalview,134
+Q182496,Bing,133
+Q19515577,Smartpls,133
+Q474635,Paraview,133
+Q1514978,Limesurvey,131
+Q4047262,Petsc,131
+Q7598,Gnu,131
+Q16335220,Blast2go,130
+Q777,Chrome,129
+Q1165184,Sagemath,127
+Q223679,Octave,127
+Q1046482,Xilinx,126
+Q2166735,Proc,124
+Q245,Raspberry pi,124
+Q981072,Minuit,124
+Q14116,Macos,122
+Q191782,Audacity,122
+Q2385566,Turbomole,122
+Q16971196,Astropy,120
+Q184316,Pagerank,120
+Q3648912,Crystal,120
+Q8023586,Winbugs,119
+Q8038,Gimp,118
+Q163468,Prolog,117
+Q2979718,Cloudcompare,117
+Q4046201,Phylip,116
+Q7042688,Nmrpipe,115
+Q107619142,Athena,112
+Q2613697,Julia,112
+Q3306840,Meshlab,111
+Q725967,Azure,111
+Q1121988,Ctan,109
+Q3598981,3d slicer,109
+Q319417,Sqlite,108
+Q50077,Visual basic,108
+Q6717127,Mosek,108
+Q4038789,Fityk,107
+Q79576,Google play,106
+Q905689,Expasy,106
+Q11368,Unix,105
+Q306559,Gnuplot,105
+Q308980,Daemon,104
+Q5533486,Genome browser,104
+Q7086477,Olex2,104
+Q121088,Contiki,101
+Q1431130,Metal,101
+Q1569955,Postgis,101
+Q65051863,Xcms,100
+Q11266,Powerpoint,98
+Q18385802,Psipred,98
+Q841685,Plink,97
+Q1770725,Rcmdr,96
+Q2078655,Namd,96
+Q7898420,Uppaal,95
+Q3047275,Interpro,94
+Q3051072,Iraf,94
+Q1131652,Coq,93
+Q5425748,Fiji,92
+Q6120337,Chembl,92
+Q681360,Opencl,92
+Q1628290,Neo4j,91
+Q1968693,T-coffee,91
+Q212587,Ocaml,90
+Q3737232,Fluka,90
+Q375913,Webgl,90
+Q165658,Flash,89
+Q25304899,Statsmodels,89
+Q5155256,Compcert,89
+Q63966,Unity,89
+Q135622,Google translate,87
+Q4654344,Asreml,86
+Q6786595,Materials studio,86
+Q1258962,Maxqda,85
+Q2718971,Cgal,85
+Q4033170,Abinit,84
+Q6719063,Mummer,84
+Q21933168,Rnafold,83
+Q11248,Windows xp,82
+Q14658,Posix,82
+Q1978628,Unscrambler,82
+Q40056,Routines,82
+Q7000696,Networkx,82
+Q7602969,Statxact,82
+Q83570,Autocad,82
+Q9340,Google drive,82
+Q104853830,Crystalexplorer,81
+Q467731,Catia,81
+Q7246703,Proverif,81
+Q15206305,Docker,80
+Q230036,Jquery,80
+Q9366,Google,79
+Q11224223,Ipopt,78
+Q235086,Smalltalk,78
+Q25052018,Agisoft photoscan,78
+Q5974832,Itk-snap,78
+Q1052790,Openssl,77
+Q108166782,Orthofinder,77
+Q3376999,Lisrel,77
+Q690201,Emboss,77
+Q905695,Trembl,77
+Q5140318,Codoncode aligner,76
+Q5629526,Hfss,76
+Q646446,Gams,76
+Q1049511,Whatsapp,75
+Q28444600,Biomart,75
+Q641368,Xtext,75
+Q749568,Rest,75
+Q782543,Gui,75
+Q1518683,Mathworks,74
+Q7157795,Peakfit,74
+Q1165204,Mongodb,73
+Q3050461,Elasticsearch,73
+Q7256288,Psychopy,73
+Q8049645,Yasara,73
+Q1133580,Mathcad,72
+Q5425403,Fenics,72
+Q7517225,Simgrid,72
+Q184793,Cadd,71
+Q226915,Zotero,71
+Q16639197,Gitlab,70
+Q5533492,Gold,70
+Q7095741,Openbugs,70
+Q17013516,Figshare,69
+Q2025530,Opensim,69
+Q2251820,Fftw,69
+Q22907735,Design-expert,69
+Q207542,Centos,68
+Q388,Linux,68
+Q5512807,Gadget,68
+Q791633,Beagle,68
+Q3459626,Cst microwave studio,67
+Q369096,Pharo,67
+Q1196945,Rosetta,66
+Q17079433,Hydrus,66
+Q25304760,Metascape,66
+Q7619862,Srim,66
+Q15777,C,65
+Q1635410,Nltk,65
+Q186055,Git,65
+Q4653888,Arpack,65
+Q5008880,Castep,65
+Q1760971,Code_saturne,64
+Q17086474,Optimization toolbox,63
+Q25220741,Vivado,63
+Q6715329,Megan,63
+Q864915,Clang,63
+Q9479,Imod,63
+Q133493,Xscale,62
+Q4039189,Grasp,62
+Q975594,Cython,62
+Q1143070,Suite,61
+Q15967387,Pandas,61
+Q5529619,Gecode,61
+Q5971368,Sympy,61
+Q613749,Anylogic,61
+Q22681967,Picrust,60
+Q2365076,Gamess,60
+Q2659957,Ipython,60
+Q756100,Node.js,60
+Q139380,Maple,59
+Q201904,Qt,59
+Q5533567,Gensim,59
+Q7095785,Openepi,59
+Q827773,Verilog,59
+Q1934217,Tinyos,57
+Q29124045,Fasttext,57
+Q6716998,Modtran,57
+Q107210863,Co2sys,56
+Q103204,Flickr,55
+Q16335194,Panther,55
+Q188860,Library,55
+Q3273109,Molcas,55
+Q1161680,Jmp,54
+Q142539,Dropbox,54
+Q22097426,Image studio lite,54
+Q2984686,Pypi,54
+Q4118434,Biopython,54
+Q81571,Pascal,54
+Q850661,Xquery,54
+Q9344,Google docs,54
+Q213602,Google street view,53
+Q22442795,Scikit-image,53
+Q5513168,Gencode,53
+Q185524,Oracle,52
+Q3011087,D3.js,52
+Q5164442,Cadp,52
+Q55641191,Nquery advisor,52
+Q178940,G++,51
+Q378561,Openmpi,51
+Q7669983,Telemac,51
+Q16335168,Proteowizard,50
+Q1649653,Nastran,50
+Q39086908,Cns,50
+Q631011,Arcview,50
+Q6716702,Mlwin,50
+Q7016954,Newbler,50
+Q3073740,Flink,49
+Q7389808,Sequest,49
+Q9589,Itunes,49
+Q1023904,Cmake,48
+Q1654158,Inca,48
+Q2467290,Umfpack,48
+Q5333872,Ecosim,48
+Q624699,Qemu,48
+Q6714570,Matsim,48
+Q81095,Dicom,48
+Q14933257,Carto,47
+Q344266,Asp,47
+Q474334,Kinect,47
+Q7189477,Phyre2,47
+Q17029215,Ilastik,46
+Q4876002,Beacon designer,46
+Q85762894,Gem5,46
+Q17146476,Plotly,45
+Q4751099,Afni,45
+Q5531054,Genepattern,45
+Q6716996,Modflow,45
+Q79604,Sketchup,45
+Q1171872,Dashboard,44
+Q1689854,Jmol,44
+Q223490,Llvm,44
+Q4651945,Aimall,44
+Q6808149,Megablast,44
+Q838189,Glpk,44
+Q107548682,Altarica,43
+Q22826110,Glove,43
+Q907311,Netflix,43
+Q1575,Internet explorer,42
+Q295179,Amix,42
+Q5464253,Foldx,42
+Q5705092,Helicon focus,42
+Q83,Mediawiki,42
+Q1079645,Singularity,41
+Q1111641,Fastp,41
+Q165400,Sourceforge,41
+Q2749650,Wien2k,41
+Q624414,Mcnpx,41
+Q64189,Mapinfo,41
+Q131093,Cms,40
+Q1486247,Gnu scientific library,40
+Q295250,Ampl,40
+Q4052122,Ugene,40
+Q40629,Myspace,40
+Q4751088,Analyse-it,40
+Q5281973,Discovery studio,40
+Q639194,Knime,40
+Q7002467,Neuron,40
+Q22329209,Alphago,39
+Q260889,Graphviz,39
+Q289281,Flask,39
+Q306039,Tcpdump,39
+Q35773,Safari,39
+Q73625,Camera,39
+Q847465,Ffmpeg,39
+Q859938,Websocket,39
+Q863957,Xen,39
+Q1486739,Gromos,38
+Q24965634,Gcta,38
+Q4769945,Adams,38
+Q48850816,.net,38
+Q7265483,Qlab,38
+Q7294366,Raptorx,38
+Q1067122,Iperf,37
+Q17048686,Statsdirect,37
+Q28957048,Pymc3,37
+Q5013592,Cp2k,37
+Q5333848,Ecopath,37
+Q1281972,Ecore,36
+Q1644704,Microblaze,36
+Q175957,Arduino,36
+Q507430,Apache tomcat,36
+Q612752,Openbabel,36
+Q7602964,Statplus,36
+Q898716,Chemdraw,36
+Q1130645,Open source,35
+Q1753563,Systemc,35
+Q191342,Lamp,35
+Q1931636,Dssp,35
+Q20714460,Apache flink,35
+Q2117885,Sysml,35
+Q4045912,Open vswitch,35
+Q65073042,Plumed,35
+Q847675,Junit,35
+Q1077480,Hypervisor,34
+Q17028513,Hypre,34
+Q17072293,Nusmv,34
+Q220577,Google analytics,34
+Q251322,Freecad,34
+Q25345891,Tina,34
+Q258058,Dendroscope,34
+Q628051,Autodesk,34
+Q891055,Packages,34
+Q964535,Eviews,34
+Q12499786,Nwchem,33
+Q1941921,Minizinc,33
+Q24700947,Jaspar,33
+Q295801,Antlr,33
+Q3267991,S-plus,33
+Q3841464,Mopac,33
+Q48267,Fedora,33
+Q67197636,Intlab,33
+Q1686799,Apache jena,32
+Q5310,Latex,32
+Q7698864,Tempo2,32
+Q795066,Geogebra,32
+Q924041,Valgrind,32
+Q1266659,Stateflow,31
+Q1814051,Mpich,31
+Q209330,Instagram,31
+Q34236,Freebsd,31
+Q3459703,Slurm,31
+Q380526,Workbench,31
+Q5629568,Hhpred,31
+Q7620099,Apache storm,31
+Q9334,Gmail,31
+Q965395,Rapidminer,31
+Q1067540,Charm++,30
+Q1089715,Webrtc,30
+Q17120727,Mg-rast,30
+Q2613117,Elastix,30
+Q306144,Nginx,30
+Q3277870,Epanet,30
+Q57267665,Lightgbm,30
+Q6368,Browser,30
+Q667566,Vba,30
+Q1461054,Openjdk,29
+Q18395263,Vector nti,29
+Q207316,Lua,29
+Q2819258,Amesim,29
+Q28231514,Vensim,29
+Q4039494,Global mapper,29
+Q4045865,Openacc,29
+Q4049099,Scalapack,29
+Q5477849,Frama-c,29
+Q7095900,Openvibe,29
+Q720314,Spring,29
+Q735604,Aspectj,29
+Q754454,Researchgate,29
+Q1164484,Opennebula,28
+Q1186761,Freertos,28
+Q16235208,Apache kafka,28
+Q180686,Pubmed,28
+Q30589374,Pix4d,28
+Q3412300,Qda miner,28
+Q528166,Client,28
+Q5425329,Feflow,28
+Q602590,Generic mapping tools,28
+Q735441,Autodesk inventor,28
+Q7671022,Topcat,28
+Q82231,Nosql,28
+Q863823,Cell,28
+Q1479654,Knowitall,27
+Q166142,Application,27
+Q2370,Visual c,27
+Q2382780,Pyqt,27
+Q3737246,Fmrib software library,27
+Q48850412,Pycbc,27
+Q7645920,Surface evolver,27
+Q11219,Windows server,26
+Q139941,Maven,26
+Q17096266,Quantum espresso,26
+Q25048081,Sketch engine,26
+Q275131,Scratch,26
+Q4034497,Aips,26
+Q403539,Wireshark,26
+Q42478,.pl,26
+Q43399271,Grafana,26
+Q5046,Windows 8,26
+Q810007,Dgemm,26
+Q899676,Prosite,26
+Q1162410,Elgamal,25
+Q18698690,Edge,25
+Q207902,Acrobat,25
+Q21043318,Gplates,25
+Q264456,Netbeans,25
+Q5014908,Cyana,25
+Q5432998,Dali,25
+Q7118883,Peaks,25
+Q754752,Dalvik,25
+Q7557082,Solarsoft,25
+Q773196,Lucene,25
+Q100952135,Elmo,24
+Q10135,Libreoffice,24
+Q11393,Virtualbox,24
+Q21155124,Openblas,24
+Q28325009,Alexnet,24
+Q3885622,Orfeo toolbox,24
+Q4834638,Baron,24
+Q580605,Gdal,24
+Q609010,Linpack,24
+Q634004,Drools,24
+Q743238,Oauth,24
+Q863756,Bing maps,24
+Q1457492,Revit,23
+Q14643,Mach,23
+Q16980,Arm,23
+Q1798391,Ltspice,23
+Q3415032,Radioss,23
+Q454728,Google app engine,23
+Q465,Dbpedia,23
+Q5515367,Gabedit,23
+Q5533897,Geoda,23
+Q647784,Argouml,23
+Q7239753,Preesm,23
+Q741303,Jdk,23
+Q1941824,Modelio,22
+Q25104949,Graphql,22
+Q2849803,Angularjs,22
+Q3093297,Gnu mcsim,22
+Q3326070,Mountainsmap,22
+Q3525922,Three.js,22
+Q5037194,Carsim,22
+Q5425337,Feko,22
+Q5446868,Fieldtrip,22
+Q5513176,Genscan,22
+Q577400,Ns-3,22
+Q598205,Homemade,22
+Q6545852,Ligandscout,22
+Q7390944,Slepc,22
+Q16677112,Slic3r,21
+Q16920177,Stsdas,21
+Q17052162,Dlib,21
+Q17126740,Timetree,21
+Q18192364,Samson,21
+Q189210,Web application,21
+Q2025673,Ode,21
+Q22907329,Node-red,21
+Q283233,Wechat,21
+Q295232,Amos,21
+Q456157,Aws,21
+Q5013483,Corsika,21
+Q5348900,Eigen library,21
+Q7119618,Plecs,21
+Q7390304,Siesta,21
+Q7705967,Tetgen,21
+Q8041954,Xfoil,21
+Q893105,Boost,21
+Q1140401,Openwrt,20
+Q13166,Wordpress,20
+Q165436,Assembler,20
+Q17014099,Flexsim,20
+Q189248,Bash,20
+Q2044701,Psort,20
+Q218924,Indesign,20
+Q22673982,Word2vec,20
+Q2283,Mi- crosoft,20
+Q2438046,Arc,20
+Q381140,Unity,20
+Q4885200,Windows phone,20
+Q5013424,Copasi,20
+Q55263982,Simpleitk,20
+Q567612,Lambda,20
+Q617329,Openscenegraph,20
+Q629795,Music,20
+Q65072984,Apbs,20
+Q7576855,Spinnaker,20
+Q85762593,Gam,20
+Q890474,Raspbian,20
+Q131382,Vim,19
+Q16335183,Inparanoid,19
+Q16934719,Bold,19
+Q2062851,Arcinfo,19
+Q22907515,Couenne,19
+Q283647,Gzip,19
+Q3459183,Samcef,19
+Q368215,App store,19
+Q5047762,Casadi,19
+Q608276,Unreal engine,19
+Q6715328,Molecular evolutionary genetics analysis,19
+Q7119431,Pisces,19
+Q7493286,Shelxle,19
+Q9369219,Metaedit+,19
+Q938304,Maxima,19
+Q1047199,Imagemagick,18
+Q13233410,Android studio,18
+Q14943842,Mathlab,18
+Q17118377,Swift,18
+Q20155677,Webassembly,18
+Q2136322,Redis,18
+Q2569373,Cilk,18
+Q2582058,Rose,18
+Q2858103,Solr,18
+Q385970,Ant,18
+Q533822,Wordnet,18
+Q629579,Macro,18
+Q661137,Fdmnes,18
+Q6716176,Minpack,18
+Q757165,Vxworks,18
+Q7673117,Tablecurve 2d,18
+Q948666,Promela,18
+Q960874,Virtualdub,18
+Q977484,Ckan,18
+Q1361922,Netcdf,17
+Q1387402,Systemverilog,17
+Q1484375,Pycharm,17
+Q1502779,Geoserver,17
+Q1536426,Spip,17
+Q1542234,Infernal,17
+Q154755,Ada,17
+Q1665600,Ifort,17
+Q1676599,Jfreechart,17
+Q17082828,Openmdao,17
+Q18396068,Plaxis,17
+Q1956317,Iox,17
+Q210295,Fpc,17
+Q2131801,Rasmol,17
+Q216192,Cygwin,17
+Q37227,Go,17
+Q400744,Gamess-us,17
+Q4550939,Caqdas,17
+Q5008866,Casino,17
+Q5013685,Cpn tools,17
+Q5134991,Clone manager,17
+Q5514028,Gnuradio,17
+Q6457657,Lemon,17
+Q65120432,Noesis,17
+Q6895772,Molden,17
+Q72237,Bigtable,17
+Q7239681,Predictprotein,17
+Q736666,Openlayers,17
+Q7394748,Stix,17
+Q7429882,Scanip,17
+Q7715973,Debian,17
+Q912162,Bioperl,17
+Q9135,Operating system,17
+Q1050365,Nls,16
+Q1332255,Snort,16
+Q1371756,Grapher,16
+Q16335143,Macvector,16
+Q16947923,Graphite,16
+Q16958587,Nodexl,16
+Q170855,Drupal,16
+Q18386017,Jpred,16
+Q1881759,Mpfr,16
+Q19599372,Alt-ergo,16
+Q19900,Oracle,16
+Q2072356,Ec2,16
+Q2160077,Robot operating system,16
+Q22661306,Kubernetes,16
+Q272597,Maya,16
+Q2822666,Acceleo,16
+Q2886113,Quickcheck,16
+Q300914,Libc,16
+Q3359573,Pari/gp,16
+Q460192,Qtiplot,16
+Q4798127,Knitr,16
+Q48989398,Dafny,16
+Q49150,Rdp,16
+Q5114269,Chronux,16
+Q5190795,Cryptoverif,16
+Q60827595,Alphafold,16
+Q6802909,Mevislab,16
+Q7246634,Proactive,16
+Q7936565,Visual molecular dynamics,16
+Q839735,Scientific linux,16
+Q906796,Pfam,16
+Q118398,Arxiv,15
+Q18155416,Spedas,15
+Q183718,Last.fm,15
+Q22004359,Antismash,15
+Q22907431,Conda,15
+Q3277979,Openmusic,15
+Q333618,Snapchat,15
+Q4343954,Devtools,15
+Q5088978,Chebfun,15
+Q5535536,Geomodeller,15
+Q575092,Google glass,15
+Q575650,Rust,15
+Q677085,Symantec,15
+Q6786762,Math kernel library,15
+Q683179,Insight toolkit,15
+Q7265261,Q-chem,15
+Q7390394,Simion,15
+Q7935326,Visit,15
+Q89296216,Nextstrain,15
+Q1141267,Scholarone,14
+Q16335160,Genemark,14
+Q17007097,Castp,14
+Q17042566,Molekel,14
+Q17071270,Netprimer,14
+Q1707206,Max/msp,14
+Q178817,Asp.net,14
+Q18357603,Berkeley madonna,14
+Q1982831,Filemaker,14
+Q2005,.js,14
+Q219363,Netflow,14
+Q22908987,Spinal cord toolbox,14
+Q2493781,Bitbucket,14
+Q259138,Ecmascript,14
+Q2598628,Yed,14
+Q3077240,Forge,14
+Q3269011,Artoolkit,14
+Q37093,Yahoo,14
+Q3774510,Libreoffice calc,14
+Q4046338,Basilisk,14
+Q4733254,Alloy analyzer,14
+Q5014525,Ctakes,14
+Q5211666,Dalton,14
+Q541691,Sonarqube,14
+Q568723,Massive,14
+Q7118228,Parsec,14
+Q7307105,Reference manager,14
+Q7391871,Snopt,14
+Q7392646,Spring,14
+Q7507690,Siconos,14
+Q8042281,Xlfit,14
+Q80535,Midi,14
+Q97277042,Star-ccm+,14
+Q10465472,Disgenet,13
+Q1102289,Webots,13
+Q1143023,Pypy,13
+Q1193246,Toolkit,13
+Q1337282,Grass,13
+Q142371,Coreldraw,13
+Q15995191,Dpdk,13
+Q1653368,Icub,13
+Q16975296,Pathvisio,13
+Q17005830,Pyomo,13
+Q17068056,Madymo,13
+Q20875622,Flexpart,13
+Q25025241,Google assistant,13
+Q25313489,Micropython,13
+Q25339766,Stella,13
+Q2650262,Google compute engine,13
+Q279979,Openoffice,13
+Q28127110,Influxdb,13
+Q283302,Grep,13
+Q308871,Minimac,13
+Q3378617,Phase,13
+Q4117112,Kinetica,13
+Q41506,Stanford,13
+Q43664,Hevc,13
+Q45842,Spiders,13
+Q483318,Symbian,13
+Q516918,Multiplan,13
+Q5436959,Flint,13
+Q5535442,Geomagic,13
+Q5597063,Graphlab,13
+Q594096,Hec-ras,13
+Q6316598,Jags,13
+Q6883829,Mixamo,13
+Q70490607,Qiskit,13
+Q7095836,Opennlp,13
+Q7197271,Pipeline pilot,13
+Q7208994,Mbedtls,13
+Q7277610,Rqda,13
+Q7512229,Sigmascan,13
+Q7596256,Staden package,13
+Q7658835,Swiss-model,13
+Q7939133,Vnmrj,13
+Q844764,Vissim,13
+Q108857484,Sequence analysis,12
+Q108872465,Or-tools,12
+Q11690245,Magicdraw,12
+Q14646,Solaris,12
+Q159433,3m,12
+Q1665857,Interactive data language,12
+Q16927612,Bluefire reader,12
+Q17045101,Kaldi,12
+Q173871,Tkinter,12
+Q184609,Expert system,12
+Q1857633,Reduce,12
+Q18844389,Hololens,12
+Q2081413,Rabbitmq,12
+Q21207,Windows mobile,12
+Q219848,Flac,12
+Q22908888,Highcharts,12
+Q2307285,Visualization toolkit (vtk),12
+Q2407,C++,12
+Q2626434,Makehuman,12
+Q2645567,Scapy,12
+Q2665141,Swi-prolog,12
+Q3112910,Gprof,12
+Q3195466,Kermeta,12
+Q360044,Adobe audition,12
+Q360357,Photoshop elements,12
+Q4778914,Apache hive,12
+Q487378,Delphi,12
+Q4904867,Bigquery,12
+Q5137316,Cn3d,12
+Q51798,Clojure,12
+Q56512593,Google dataset search,12
+Q599384,Cpython,12
+Q7067518,Npm,12
+Q7095827,Openms,12
+Q7276397,Retscreen,12
+Q7390335,Polychrony,12
+Q7446958,Seismic unix,12
+Q847296,Visual c++,12
+Q860213,Gstreamer,12
+Q8811,Web interface,12
+Q926331,Ransomware,12
+Q1053999,Jython,11
+Q1066769,Teamviewer,11
+Q11230,Windows vista,11
+Q1124889,Scidavis,11
+Q1136882,Couchdb,11
+Q1153889,Diva-gis,11
+Q1197865,Orcad,11
+Q1211457,Ga,11
+Q1275643,Epics,11
+Q13634357,Laravel,11
+Q1418762,Fds,11
+Q1421287,Xmgrace,11
+Q1501565,Gecos,11
+Q1544957,Saga gis,11
+Q16151260,Getfem++,11
+Q169411,Uml,11
+Q16980929,Simpy,11
+Q176691,Nist,11
+Q189722,Emacs,11
+Q22095616,Cloudsim,11
+Q22348165,Mxnet,11
+Q24174701,Metabolights,11
+Q261918,Init,11
+Q285459,Libpcap,11
+Q3050604,Edgar,11
+Q356,Google+,11
+Q4692056,Agentspeak,11
+Q4778968,Zookeeper,11
+Q484892,Me,11
+Q499062,Motu,11
+Q5014227,Cspro,11
+Q53479,Stuxnet,11
+Q5379936,Variant effect predictor,11
+Q616885,Apache jmeter,11
+Q6725133,Macromodel,11
+Q7265383,Qblade,11
+Q856089,Glibc,11
+Q965596,Gradle,11
+Q1050459,Gfortran,10
+Q109561813,Pvlib,10
+Q1137220,Opengl es,10
+Q1147445,Metasploit,10
+Q1188957,Libvirt,10
+Q119653,Globalplatform,10
+Q1537683,Google file system,10
+Q16626338,Phonegap,10
+Q16834355,Cypher,10
+Q16975491,Powerlab,10
+Q16982951,Vistrails,10
+Q174907,Pspice,10
+Q1757732,Preview,10
+Q17625067,Acd/chemsketch,10
+Q18387205,Tsne,10
+Q188695,Directx,10
+Q18968627,Guix,10
+Q194090,Mate,10
+Q1988917,Data analysis,10
+Q20714273,Deepface,10
+Q21156460,Kibana,10
+Q212324,3ds max,10
+Q22661177,Zenodo,10
+Q2407715,Textgrid,10
+Q2446031,Simlife,10
+Q25021818,Zen 2,10
+Q2667535,Tango,10
+Q283469,Icloud,10
+Q28447694,Molecular operating environment,10
+Q284522,Wxpython,10
+Q2858088,Apache tika,10
+Q2912272,Openshift,10
+Q30634475,3d viewer,10
+Q306661,Memcached,10
+Q3353120,Openscad,10
+Q3516998,Tecplot,10
+Q3901296,Phelix,10
+Q4041803,Java pathfinder,10
+Q43968444,Deepl,10
+Q467707,Sdk,10
+Q4788318,Ardupilot,10
+Q48839221,Arcore,10
+Q489048,Silverlight,10
+Q502121,Blackberry,10
+Q5090512,Chemicalize,10
+Q545827,Mapserver,10
+Q565573,Rhinoceros 3d,10
+Q568694,Pear,10
+Q569357,Brenda,10
+Q58066,Aim,10
+Q595786,Dspace,10
+Q620620,App inventor,10
+Q6334372,Knitro,10
+Q6382043,Key,10
+Q6722751,Macaulay2,10
+Q7118282,Patric,10
+Q7226517,Polymake,10
+Q7552147,Sina,10
+Q7603,Gpl,10
+Q773135,Activemq,10
+Q83303,Fortran,10
+Q843225,Altera quartus,10
+Q849246,Gem,10
+Q9558,Imovie,10
+Q105973299,Cytof,9
+Q1122544,Drugbank,9
+Q11240060,Psyscope,9
+Q1227452,Openpgp,9
+Q1322933,Symfony,9
+Q1416880,Abbyy finereader,9
+Q1458021,Singular,9
+Q1502796,Geotiff,9
+Q1544413,Ni,9
+Q16335176,Alleleid,9
+Q17145975,Nlogit,9
+Q17148362,Mavlink,9
+Q1783005,Octopus,9
+Q18386417,Superpose,9
+Q185576,Arch linux,9
+Q19599369,Affinity designer,9
+Q196193,Htcondor,9
+Q19776205,Grams,9
+Q2027,Linux mint,9
+Q213970,Awk,9
+Q2206577,Slim,9
+Q2311683,Chemspider,9
+Q2458963,Amber,9
+Q2574835,Mycobank,9
+Q271680,Framework,9
+Q277034,Netlib,9
+Q28406740,Warppls,9
+Q28406945,Spacy,9
+Q287539,Form,9
+Q29364608,Csmith,9
+Q3032255,Magma,9
+Q3108952,Gisaid,9
+Q316333,Delmia,9
+Q32110,Xslt,9
+Q3363290,Paradiseo,9
+Q3493345,Spark,9
+Q360403,Lightroom,9
+Q368367,Scrapy,9
+Q4117844,Coral,9
+Q41242,Opera,9
+Q44860007,Alphazero,9
+Q4817319,Point cloud library,9
+Q48524,Chromium,9
+Q485593,Jboss,9
+Q506883,Foss,9
+Q5157207,Compucell3d,9
+Q5301,Tex,9
+Q5322614,Ebird,9
+Q5324204,Esp-r,9
+Q54366,Network analyzer,9
+Q5496032,Fred,9
+Q5513112,Gdata,9
+Q5583871,Openrefine,9
+Q56291130,Open data kit,9
+Q56795481,Rclone,9
+Q616639,Apache cassandra,9
+Q620615,Mobile application,9
+Q623332,Nmap,9
+Q633804,Hotspot,9
+Q6898976,Monetdb,9
+Q6983890,Nextprot,9
+Q7095877,Opensees,9
+Q7669325,Tapaal,9
+Q7833912,Transcriber,9
+Q787177,Mariadb,9
+Q7881459,Vsphere,9
+Q7928305,Vienna ab initio simulation package,9
+Q7999828,Wikipathways,9
+Q80375,Spatialite,9
+Q827328,Paint.net,9
+Q8364850,Kali linux,9
+Q10301799,Invesalius,8
+Q1074972,Presto,8
+Q108131001,Gnat,8
+Q1092514,Sqlalchemy,8
+Q1205818,Gmp library,8
+Q13512320,Spam,8
+Q1370184,Sketchpad,8
+Q1401466,Puredata,8
+Q14091,Imac,8
+Q1418686,Sieve,8
+Q149023,Azerty,8
+Q16335172,Peptideprophet,8
+Q17004140,Samza,8
+Q17068357,Mapbox,8
+Q17076943,Px4,8
+Q17081742,Snappy,8
+Q17130715,Slack,8
+Q178481,X10,8
+Q1797819,Sel4,8
+Q183065,Evaluator,8
+Q19399674,React,8
+Q19841877,Visual studio code,8
+Q2033,Notepad++,8
+Q210057,Netscape,8
+Q219528,Ccp,8
+Q22908627,Semantic scholar,8
+Q2336957,W4m,8
+Q25021298,Google pixel,8
+Q250328,Xcode,8
+Q25106543,Scalasca,8
+Q27926168,Apache beam,8
+Q28022144,Alexa,8
+Q2829475,Aladin,8
+Q283774,Rsync,8
+Q284982,Wxwidgets,8
+Q2985069,Combinezp,8
+Q302392,Advanced design system,8
+Q30873,Dell,8
+Q332707,Viber,8
+Q334879,Erlang,8
+Q344370,Activiti,8
+Q3512200,Tinker,8
+Q352742,Adblock plus,8
+Q355,Facebook,8
+Q360424,Premiere pro,8
+Q4027040,Phrap,8
+Q4035679,Criu,8
+Q4310566,Irbis,8
+Q4651947,Aimms,8
+Q46794,Svn,8
+Q48263,Dashboards,8
+Q4904861,Bigdft,8
+Q5013287,Coffee,8
+Q5162789,Consed,8
+Q5205081,Dialign,8
+Q5205860,Dogma,8
+Q5206860,Dynamo,8
+Q535461,Wget,8
+Q5362035,Elixir,8
+Q5396532,Mallet,8
+Q5451829,Firefly,8
+Q55080188,Repetier-host,8
+Q5513624,Glimmer,8
+Q5533904,Geojson,8
+Q581771,Foldit,8
+Q595971,Graphdb,8
+Q5971824,Ilwis,8
+Q616659,Apache commons,8
+Q623950,Fft,8
+Q6717340,Mpsolve,8
+Q689141,Spotify,8
+Q6898824,Mondrian,8
+Q6955691,Nvcc,8
+Q7517223,Simfit,8
+Q7671943,Ttethernet,8
+Q779819,Glsl,8
+Q7833760,Transana,8
+Q1031755,Camtasia,7
+Q1051988,Cocoa,7
+Q1053535,Processing,7
+Q1076355,Pe,7
+Q110367996,Wordle,7
+Q1123462,Context,7
+Q1141484,Weave,7
+Q1174228,Edlut,7
+Q12253,Watson,7
+Q1245659,Universal software radio peripheral,7
+Q1265582,Dune,7
+Q12746855,Simple modular architecture research tool,7
+Q13231451,Hangouts,7
+Q134471,Ajax,7
+Q1359246,Jira,7
+Q135964,Zbrush,7
+Q1416761,Findbugs,7
+Q1478133,Geotools,7
+Q15154026,20-sim,7
+Q1604323,Poser,7
+Q16691,Opensuse,7
+Q16928072,Truffle,7
+Q17073339,Orangefs,7
+Q17092833,Jaql,7
+Q17125754,Mlton,7
+Q17363870,Plasma,7
+Q18205548,Biojs,7
+Q1857280,Phonon,7
+Q191307,Bsd,7
+Q192726,Vm,7
+Q19697831,Magix,7
+Q19871539,Actran,7
+Q2040291,Applied biosystems,7
+Q20718,Samsung,7
+Q2115026,Presentation software,7
+Q24589705,Vue.js,7
+Q2468467,Bmdp,7
+Q2496071,Xenomai,7
+Q2814113,Emscripten,7
+Q30136207,Arkit,7
+Q30315025,Wavenet,7
+Q3093306,Cflow,7
+Q3093314,Gnu parallel,7
+Q312,Mapple,7
+Q337535,Steamvr,7
+Q3681793,Cocoa,7
+Q3738206,Facegen,7
+Q4741415,Ambienttalk,7
+Q4771439,Antescofo,7
+Q483130,Gis,7
+Q499775,Calculix,7
+Q5013625,Cpce,7
+Q5016377,Skill,7
+Q509284,Google cloud,7
+Q513861,Tibco,7
+Q5281,Yandex,7
+Q55080279,Squeezenet,7
+Q5628948,Haproxy,7
+Q56669074,Google meet,7
+Q593065,Basex,7
+Q5970081,Idrisi,7
+Q604945,Kra,7
+Q63777286,Oculus quest,7
+Q646683,Sequencer,7
+Q657224,Ida pro,7
+Q6717914,Amstar,7
+Q676052,Qnx,7
+Q6913429,Morphobank,7
+Q7187659,Photomodeler,7
+Q7246839,Probcons,7
+Q737139,Evince,7
+Q7521341,Gastroplus,7
+Q7831132,Tracepro,7
+Q7841996,Trilinos,7
+Q838041,Libpng,7
+Q850234,Vufind,7
+Q864889,Onedrive,7
+Q918,Twitter,7
+Q930428,X3d,7
+Q953642,Gauss,7
+Q1036510,Biojava,6
+Q108208446,Ffd,6
+Q1136830,Motif,6
+Q1140252,Pygame,6
+Q1144975,Binutils,6
+Q1149365,Redmine,6
+Q1172313,Viewer,6
+Q117483,Partons,6
+Q1206660,Intellij,6
+Q1412909,Jack,6
+Q144858,Digital editions,6
+Q15731832,Dynamodb,6
+Q15893711,Gboard,6
+Q1645574,Protobuf,6
+Q165777,Windows movie maker,6
+Q16927968,Giraph,6
+Q17149260,Magpie,6
+Q1727367,Sabre,6
+Q18391700,Silva,6
+Q1848165,Pspp,6
+Q18913176,Vivaldi,6
+Q19315319,Apache mesos,6
+Q19599376,Apache flume,6
+Q19599536,Pyscf,6
+Q19600038,Thingspeak,6
+Q2,Q2,6
+Q2-dada2,Q2-dada2,6
+Q2044071,Tikz,6
+Q207006,Wolframalpha,6
+Q207240,Zlib,6
+Q209563,Boinc,6
+Q2134522,Reactome,6
+Q213660,Linkedin,6
+Q215273,Enterprise linux,6
+Q2164484,Yawl,6
+Q220993,Gnumeric,6
+Q2270514,Javafx,6
+Q230724,Apt-get,6
+Q23672887,Mirageos,6
+Q23891141,Openneuro,6
+Q240192,Musescore,6
+Q2455266,Ikev2,6
+Q2510947,Sound forge,6
+Q2538066,Apache hbase,6
+Q2571518,Sciencedirect,6
+Q26356541,Grpc,6
+Q28455382,Starlight,6
+Q28517022,Libraw,6
+Q2872619,Automation studio,6
+Q292952,Gretl,6
+Q2981424,Code composer studio,6
+Q324957,Irfanview,6
+Q3325183,Motionbuilder,6
+Q334046,Paint,6
+Q34225,Netbsd,6
+Q3484684,Simpletext,6
+Q369244,Vissim,6
+Q377539,Kvm,6
+Q39059250,Normaliz,6
+Q39531,Bluetooth,6
+Q4034164,Apache felix,6
+Q4050313,Subversion,6
+Q42378,Usb,6
+Q42591,Mp3,6
+Q44316,Gnome,6
+Q4462013,Translate,6
+Q46261310,Google spreadsheet,6
+Q4652354,Algo,6
+Q4686149,Acd labs,6
+Q47506,Compiler,6
+Q4778931,Apache mahout,6
+Q4835399,Egsnrc,6
+Q4835846,Blat,6
+Q486487,Nt,6
+Q49050,Google nexus,6
+Q4907601,Bilbao crystallographic server,6
+Q4982024,Bsoft,6
+Q5012839,Cmap,6
+Q510878,Ctypes,6
+Q511977,Calc,6
+Q5162834,Consensuspathdb,6
+Q5205842,Dock,6
+Q521697,Pov-ray,6
+Q5227499,Dataverse,6
+Q5281152,Disprot,6
+Q5289,.net,6
+Q5513682,Glite,6
+Q5597068,Graphstream,6
+Q5617976,Gumtree,6
+Q576474,Goldwave,6
+Q59,Hypertext preprocessor,6
+Q6107934,I2,6
+Q6458666,Ligplot,6
+Q662200,Activex,6
+Q6753830,Maplesim,6
+Q685739,Jxta,6
+Q694007,Lms,6
+Q6944817,Myfitnesspal,6
+Q706480,Onenote,6
+Q7095859,Openrave,6
+Q7113376,Overdrive,6
+Q7115030,Oxmetrics,6
+Q7392671,Spss modeler,6
+Q747866,Hibernate,6
+Q7491312,Jenkins,6
+Q7517240,Simspark,6
+Q7543861,Smartfrog,6
+Q7561850,Sonic visualiser,6
+Q7975256,Wavelab,6
+Q8079189,Zeromq,6
+Q81230,Siemens,6
+Q860760,Image manager,6
+Q905543,Pplive,6
+Q909442,Kegg,6
+Q9587,Final cut pro,6
+Q96583789,Macos big sur,6
+Q970576,Marenostrum,6
+Q971216,Limdep,6
+Q106639001,Wudapt,5
+Q1069215,Hdf5,5
+Q1074892,Omnigraffle,5
+Q1083683,Ginac,5
+Q1092177,Mom,5
+Q11278,Hyper-v,5
+Q1136,Reddit,5
+Q11407,Vmware,5
+Q1147294,Opencyc,5
+Q1152194,Dcraw,5
+Q1156326,Osgi,5
+Q1188338,Mappy,5
+Q12014467,Glusterfs,5
+Q1210707,Geos,5
+Q1218180,Nikon,5
+Q1316175,Systran,5
+Q132874,Lisp,5
+Q1384919,Extendsim,5
+Q1398550,Faust,5
+Q1420482,Image sxm,5
+Q14655123,Kevoree,5
+Q14772,Baidu,5
+Q14988249,X265,5
+Q15263584,Mte,5
+Q1572865,Sass,5
+Q1600588,Rtems,5
+Q16335158,Eztaxon-e,5
+Q16335173,Treefam,5
+Q16340,Xpath,5
+Q16835936,Ecotect,5
+Q168492,Java native interface,5
+Q168624,Codesys,5
+Q16863097,Svelte,5
+Q16958215,Inaturalist,5
+Q170378,Gentoo,5
+Q17081524,System manager,5
+Q17141314,Mcstas,5
+Q171477,Vlc,5
+Q17149842,Openshmem,5
+Q1727373,Linter,5
+Q1753883,Snomed-ct,5
+Q17558104,Google cardboard,5
+Q1780782,Xmind,5
+Q179116,Esxi,5
+Q1799362,Labwindows,5
+Q1810014,Luxcorerender,5
+Q181693,Firewire,5
+Q1830735,Samba,5
+Q187906,Minix,5
+Q188104,Phpmyadmin,5
+Q19881587,Ublock,5
+Q20164634,Eidors,5
+Q2025409,Dataexplorer,5
+Q20712371,Phantomjs,5
+Q2115,Xml,5
+Q2121795,Qt designer,5
+Q217570,Wave,5
+Q217647,Libavcodec,5
+Q22673960,Unipept,5
+Q22907443,Conn,5
+Q22908372,Fico xpress,5
+Q2299611,Yelp,5
+Q23302620,Affinity photo,5
+Q2351180,Gnu prolog,5
+Q23542287,Powerbi,5
+Q24262968,Google home,5
+Q2536917,Websphere,5
+Q254211,Liferay,5
+Q25537314,Simhash,5
+Q2597211,Lxc,5
+Q264184,Avida,5
+Q273190,Sparc,5
+Q281876,Yaml,5
+Q28406404,Teams,5
+Q2845288,Analyze,5
+Q285539,Xunit,5
+Q286443,Nesc,5
+Q290284,Owncloud,5
+Q2905238,Blablacar,5
+Q292976,Jedit,5
+Q309893,Strongswan,5
+Q34978225,Chainer,5
+Q359595,Jdom,5
+Q360118,Cs3,5
+Q3772657,Gotomeeting,5
+Q3816639,Kotlin,5
+Q4036242,Cityengine,5
+Q4045331,Ngspice,5
+Q4045938,Optix,5
+Q4050034,Starlogo,5
+Q4182287,Search engine,5
+Q441778,Altium designer,5
+Q4546002,1000minds,5
+Q4650276,Iview,5
+Q4652351,Alglib,5
+Q4655216,Axe,5
+Q468215,Homologene,5
+Q4731408,Allegrograph,5
+Q4778935,Apache ode,5
+Q486926,Esterel,5
+Q4962915,Brian,5
+Q5009675,Ccp4,5
+Q5010594,Cfd-ace+,5
+Q506636,Archicad,5
+Q5114114,Arcview gis,5
+Q5162090,Conoserver,5
+Q5434106,Fantamorph,5
+Q55080116,Onnx,5
+Q55610474,Eclipse paho,5
+Q55639934,Ida ice,5
+Q575269,Simulationx,5
+Q5909334,Hostapd,5
+Q594646,Paillier,5
+Q5968958,Appscan,5
+Q6042860,Integrated genome browser,5
+Q61726893,Bert,5
+Q640741,Mysql workbench,5
+Q644624,Mycin,5
+Q6460216,Lttng,5
+Q648625,Google knowledge graph,5
+Q657498,Ironpython,5
+Q6716140,Minc,5
+Q705442,Physx,5
+Q7104395,Orthodb,5
+Q71493,Msn,5
+Q7167927,Perf,5
+Q7262799,Pyephem,5
+Q7291907,Random.org,5
+Q741235,Stl,5
+Q745881,Ids,5
+Q748417,Vpc,5
+Q751346,Network manager,5
+Q7600431,Stapl,5
+Q762464,Squeak,5
+Q7663769,Spire,5
+Q775811,Office 365,5
+Q7935239,Virtuoso universal server,5
+Q7943341,Vuforia,5
+Q79564,Google now,5
+Q79578,Google web toolkit,5
+Q847062,Openssh,5
+Q855981,Cyanogenmod,5
+Q860676,Image viewer,5
+Q867758,Adblock,5
+Q94979732,Zoom,5
+Q1045778,Esri,4
+Q104901838,Datagraph,4
+Q1057445,Logic pro,4
+Q107473633,Prometa,4
+Q108377343,Danse,4
+Q109621147,Petrel,4
+Q110129308,Brainhex,4
+Q1131261,Smartdrive,4
+Q1147298,Hapmap,4
+Q1152962,Degas,4
+Q116947,Facebook messenger,4
+Q1194864,Eda,4
+Q1253530,Doxygen,4
+Q12877,Josm,4
+Q1331559,Freemind,4
+Q1418202,Beegfs,4
+Q1431,Kde,4
+Q14468709,Openproject,4
+Q1472351,Jump,4
+Q1497335,Signwriting,4
+Q15077385,Gns3,4
+Q15122248,Cryptolocker,4
+Q15142862,Wetransfer,4
+Q156616,Insee,4
+Q15702839,Curve25519,4
+Q1570329,Pikeos,4
+Q167784,Epiphany,4
+Q16928018,Massive online analysis (moa),4
+Q17009371,Dmol3,4
+Q17014056,Flacs,4
+Q17016516,Bci2000,4
+Q17054505,Google cloud,4
+Q17064019,Laplacesdemon,4
+Q17067554,Liteos,4
+Q17069495,Mlpack,4
+Q17078707,Robotics toolbox,4
+Q17083265,Cgview,4
+Q1710177,Ojs,4
+Q1760165,Open cascade,4
+Q17990531,Talkback,4
+Q180760,Adacore,4
+Q1808580,Voiceover,4
+Q18150347,Google fit,4
+Q183197,Spreadsheets,4
+Q1853420,Gems,4
+Q186301,Scite,4
+Q18833,Sharepoint,4
+Q1941695,Mockito,4
+Q194978,Visio,4
+Q19646047,Apache phoenix,4
+Q1977027,Rational rhapsody,4
+Q20023123,Clinvar,4
+Q20072348,Openvx,4
+Q203597,3ds,4
+Q20714639,Jhipster,4
+Q20728,Semantic mediawiki,4
+Q207656,Apache wave,4
+Q21041377,Yadics,4
+Q2124323,Rkward,4
+Q212569,Simula,4
+Q215819,Ms sql,4
+Q219758,Bioware,4
+Q223204,Gnupg,4
+Q22812733,Openvr,4
+Q22909437,Tomopy,4
+Q22909440,Tomviz,4
+Q2328712,Riak,4
+Q2334242,Google wallet,4
+Q2336497,Image composite editor,4
+Q23691642,Apache nifi,4
+Q2378,Visual basic,4
+Q23818238,Citymapper,4
+Q2384780,Transfac,4
+Q23992207,Neurovault,4
+Q24339,Corel photo-paint,4
+Q244371,Openid,4
+Q248,In- tel,4
+Q24909565,Solidity,4
+Q2496860,Cloudstack,4
+Q25104134,Mvapich,4
+Q25110671,Atila,4
+Q25303712,Newton-x,4
+Q2552854,Wavelab,4
+Q2580273,Mega,4
+Q259347,Csound,4
+Q267956,Atom,4
+Q28449589,Mobidb,4
+Q285960,Jquery ui,4
+Q286923,Log4j,4
+Q296187,Dyalog,4
+Q296782,Arm,4
+Q2996091,Nexus 2,4
+Q300867,Make,4
+Q307299,Cgroup,4
+Q30894456,Uwsgi,4
+Q3113655,Player/stage,4
+Q3149590,Inca3d,4
+Q3237868,Libgcrypt,4
+Q3317219,Xios,4
+Q3347685,Oprofile,4
+Q34010,Haskell,4
+Q34215,Openbsd,4
+Q3519804,Tair,4
+Q3569884,Wordstat,4
+Q37156,Ibm,4
+Q381047,Mosaic,4
+Q386811,Camstudio,4
+Q389964,Parasolid,4
+Q4034651,Axure,4
+Q4035967,Ceph,4
+Q4038508,Fastrad,4
+Q40406186,Tez,4
+Q4041851,Jinja2,4
+Q4052567,Vtune,4
+Q412510,Keynote,4
+Q42332,Acrobat reader,4
+Q42916195,Keycloak,4
+Q42979,Data,4
+Q4300351,Cpmd,4
+Q430526,Evernote,4
+Q431195,Db2,4
+Q44571,Gnu,4
+Q460340,Isabelle,4
+Q46441,Acss,4
+Q4693816,Agrep,4
+Q4759469,Android ndk,4
+Q4778888,Apachebench,4
+Q4788873,Rockwell arena,4
+Q4794722,Arnetminer,4
+Q4852549,Balsamiq,4
+Q4919356,Bizagi,4
+Q492650,Rpm,4
+Q4986417,Buildbot,4
+Q5013609,Cpachecker,4
+Q5141804,Snort,4
+Q518797,Jaxb,4
+Q5190783,Crypto++,4
+Q5319098,Dynamorio,4
+Q5333204,Ecolego,4
+Q539268,Inform,4
+Q5455376,Fitit,4
+Q5514656,Gt-power,4
+Q55612400,Gekko,4
+Q5590530,Grads,4
+Q5597529,Grasshopper 3d,4
+Q56826048,Openvsp,4
+Q568769,Soundcloud,4
+Q591518,Elki,4
+Q603967,Dae,4
+Q6055546,Pvfs,4
+Q60741067,Mfem,4
+Q6108488,Jmag,4
+Q6121978,Phred,4
+Q616526,Apache license,4
+Q620616,Apparmor,4
+Q6397983,Kexec,4
+Q6459463,Lobster,4
+Q650922,Xnview,4
+Q65121923,Appsheet,4
+Q654034,Webkit,4
+Q6716125,Mimic,4
+Q6822975,Metamath,4
+Q686258,Vba,4
+Q688317,Winzip,4
+Q6944826,Myhdl,4
+Q6995251,Modan,4
+Q7002277,Neurogrid,4
+Q7118599,Pci geomatica,4
+Q7121115,Pv-wave,4
+Q7178768,Pnml,4
+Q7189430,Phyloxml,4
+Q7193204,Apache pig,4
+Q722656,Xamarin,4
+Q7226954,Polyspace,4
+Q7265593,Quadpack,4
+Q72688,Xubuntu,4
+Q7501864,Soap2,4
+Q7517209,Sim4,4
+Q7517220,Simevents,4
+Q7521279,Simul8,4
+Q762737,Spectra,4
+Q7703050,Terraview,4
+Q773220,Apache sqoop,4
+Q790931,Avidemux,4
+Q7919423,Velvet assembler,4
+Q7936559,Visual modflow,4
+Q8041684,Xapps,4
+Q8045057,Xtratum,4
+Q80998,Firewall,4
+Q812964,Beanshell,4
+Q830106,Geonames,4
+Q842014,Django,4
+Q844595,Sh,4
+Q854437,Palm,4
+Q868410,Imaging software,4
+Q878713,Bittorrent,4
+Q880016,Blackberry,4
+Q90397081,Tracetogether,4
+Q90575632,Tousanticovid,4
+Q943442,Exe,4
